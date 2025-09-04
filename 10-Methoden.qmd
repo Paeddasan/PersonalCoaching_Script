@@ -1,0 +1,76 @@
+# Methoden des Coachings
+
+## Aufbau von Einheiten
+
+Die meisten Trainer\*innen bieten Trainings zwischen 30 und 90min an. In dieser Zeit sollen viele Bereiche abgedeckt werden:
+
+-   Begrüßung
+-   kurzes einleitendes Gespräch
+    -   Smalltalk
+    -   Fragen nach heutigem Empfinden
+-   Rückgriff auf Coaching Elemente seit letzter Einheit
+    -   Besprechung von eigenem Training
+    -   Besprechen von Lifestyle Coaching (Ernährung, Stressmanagement...)
+-   Mögliche Fortschrittsüberprüfungen
+-   Absprechen der heutigen Einheit
+-   Warm-up
+-   Training
+-   Cool-down
+-   Besprechung der Übungselemente bis nächste Einheit
+-   Terminvereinbarung
+
+Es ist nicht immer einfach alles in 60min zu packen. Überlege dir gut, welche Elemente der Einheit du für die jeweiligen Coachees auch auslagern kannst. Können sie sich vor der Einheit eigenständig Aufwärmen? Nein -- nun, dann ist es vielleicht dein persönliches Ziel, dass sie das erlernen. Möchtest du Terminvereinbarungen außerhalb der Trainingszeit lösen? Das ist großartig! Überlege dir nur ein gutes System. Wenn du einmal 20 Kunden hast, ist es kein Spaß mehr über Whatsapp flexibel Termine auszumachen.
+
+Darüber hinaus haben auch Kund\*innen gewisse Vorstellungen. Viele möchten (bewusst oder unbewusst) mit einem gewissen Gefühl aus der Einheit gehen. Das Training soll sie entweder mit Energie für den Arbeitstag füllen (v.a. morgens, mittags), sie möchten sich am Ende entspannt fühlen (v.a. am Abend oder am Wochenende) oder sie möchten das Gefühl haben, dass sie alles gegeben und viel geleistet haben (sowieso immer ).
+
+### Wahrnehmung von subjektiver Intensität
+
+Eine wichtige Strategie, damit du und deine Klient\*innen zufrieden aus der Einheit kommen, ist die **Peak-End Regel** [@kahnemanThinkingFastSlow2012]. Menschen erinnern sich am meisten an den Höhepunkt und an das Ende eines Urlaubs, eines Lebensabschnittes, einer medizinischen Untersuchung und eines Trainings. Kund\*innen, denen es wichtig ist, dass sie sich sehr verausgaben, reicht oft ein kurzer Block von 5-10 Minuten in den letzten 15 Minuten der Einheit. Unter anderem daher (aber im Fall des Trainings sicher auch aus physiologischen Gründen), fühlt sich ein Training mit einem kurzen Block von 10-15 hoch intensiven Elementen härter und „effektiver" an, als ein Training, das 50min bei 70% Intensität liegt. Nutze diese Regel, um das Training so anzupassen, dass es den Erwartungen deiner Klient\*innen entspricht.
+
+Auf der anderen Seite steht das Heranführen an die geforderte Trainingsintensität. Dies kennst du vielleicht aus deinem eigenen Training. An manchen Tagen fühlt man sich nicht bereit für ein intensives Training. Nach einem guten Warm-up und ein paar leichteren Übungen kommt man jedoch manchmal doch noch in Schwung und übertrifft sogar die eigenen Erwartungen. Diesem Effekt solltest du dir bewusst sein, wenn Klient\*innen dir erklären, dass heute sie „heute sehr müde sind und Nichts gehen wird". Gib ihnen Zeit, schreib die Einheit nicht gleich ab. Vielleicht entwickelt sich eine eigene Dynamik und ihr könnt zumindest einen kurzen Teil der Einheit im entsprechenden Intensitätsbereich verbringen. Wenn dir das gelingt, ist es wichtig die Klient\*innen im Anschluss darauf aufmerksam zu machen. Frag sie, wie sich das Energielevel während der Einheit verändert hat und was sie über diesen geänderten Zustand denken. Halte ihre Einschätzung dabei realistisch. Manchmal gelingt es den Organismus anzukurbeln. An anderen Tagen ist es einfach besser es ruhig anzugehen. Mit der Zeit können sie lernen ein Gefühl für den Unterschied zu bekommen. Du kannst ihnen helfen indem du ihnen auch objektive Maße (Herzfrequenz, Hantelgeschwindigkeit, Sprunghöhe, Griffkraft, HRV, RPE, ... oder andere Parameter die Autoregulation ermöglichen) zu Verfügung stellst, mit denen Sie ihre innere Wahrnehmung schulen können.
+
+<span style="color:grey"> *Hier erscheint in Kürze: "Subjektive Wahrnehmung"*<span>
+
+## Abgleichen der Sichtweisen
+
+Um die Ansprüche meiner Klient\*innen mit meinen Sichtweisen abzugleichen, müssen wir sie kennen und besprechen! Die Frage nach der **Erwartung** der Kund\*innen an die Einheit ist dafür wichtig. Das beutet jedoch nicht, dass wir diesen Erwartungen genau entsprechen müssen. Wir sollten jedoch ansprechen können, wenn wir sie nicht erfüllen wollen/können. Wenn Kund\*innen glauben Training sei nur „effektiv", wenn sie sich total verausgabt haben und erschöpft sind, wir aber der Meinung sind, dass kontinuierliches Training auf 80% langfristig mehr bringt, muss diese Diskrepanz besprochen werden. In den meisten dieser Gespräche wirst du als Expert\*in für Training und Fitness sicher häufig das Gefühl haben, dass du natürlich die Wahrheit kennst und recht hast. Es wird dir jedoch nicht immer gelingen Klient\*innen von ihren Überzeugungen mit guten Argumenten umzustimmen. Wie du mit diesen Diskrepanzen umgehst, ist eine schwierige Frage, die du nicht auf die leichte Schulter nehmen solltest.
+
+Viele Berufsanfänger\*innen (aber auch erfahrenere Coaches) halten es für wichtig den Kund\*innen das zu geben, was sie wollen. Gleichzeitig verstärkst du dadurch falsche Annahmen bei deinen Kund\*innen. Du wirst außerdem deine Kompetenz interminieren und gleichwohl deinen eigenen Ansprüchen nicht entsprechen können -- ein Teufelskreis aus dem du nur schwer wieder heraus kommst.
+
+Die konträre Herangehensweise ist es, von den eigenen Systemen nicht abzuweichen und darauf zu beharren, dass alle deine Kund\*innen dieses Programm durchlaufen und ja schließlich Erfolg haben. Auch diese Ansicht ist eine Sackgasse, aus der du nicht so schnell herauskommst. Du verzichtest hiermit auf individuelle Ansprüche der Kund\*innen (das Herzstück von PT) und verwehrst dir die Möglichkeit dazuzulernen.
+
+**Deine Aufgabe:** Besprich mit deinen Klient\*innen ihre Erwartungen an die Einheiten. Dann besprich mit ihnen ehrlich und wertschätzend, was deine Meinung dazu ist. Überlege dann gemeinsam mit ihnen, wie ihr hier einen gemeinsamen Weg finden könnt. Vielleicht kannst du deine Kund\*innen auch einen oder zwei Tage nach einem Training kontaktieren und sie rückwirkend fragen, wie es ihnen mit dem Training ging. Manchmal (meistens) passen das *Erlebende Ich* und *Erinnernde Ich* auch nicht ganz zusammen. Besprich dann am Anfang der nächsten Einheit auch das mit ihnen und frag sie, wie sie das wahrnehmen und was eine gute Lösung sein könnte.[^10-methoden-1]
+
+[^10-methoden-1]: Du solltest immer die Klient\*innen nach ihren Lösungen fragen. Halte aber mindestens eine Lösung, die von dir kommt, bereit. Schließlich (so das Argument der Klient\*innen) wirst du ja für die Lösungen bezahlt.
+
+**Persönlicher Zwischenreport**
+
+Arbeitet man mit Kund\*innen langfristiger zusammen, so verlieren beide nach einer gewissen Zeit manchmal den Fokus oder es schleifen sich Muster ein, die für keinen der beiden Parteien zielführend sind[^10-methoden-2]. Gleiche Sichtweisen auch mit langfristigen Kunden explizit ab. Man kann sich leicht täuschen oder aneinander vorbeireden.
+
+[^10-methoden-2]: Ein bisschen wie das Ehepaar und die Frühstückssemmeln bei Paul Watzlawick
+
+Hierzu kann man zum Beispiel einen kurzen (!) Fragebogen vorbereiten, den man den Klient\*innen mit nach Hause gibt oder online zusendet. Fragen zum vergangenen Trainingsprozess, ihre Einschätzung zur eigenen Gesundheit und Fitness, Veränderungen, die sie durch das Training erlebt haben, Erwartungen für zukünftige Einheiten, usw., können zum Beispiel über Skalen oder offene Textfelder abgefragt werden. Als Nebeneffekt stellt sich durch die Übung bei den Klient\*innen oft eine Dankbarkeit und Zufriedenheit mit ihren Veränderungen und ihrem Training ein.
+
+Nutze den persönlichen Zwischenreport in der nächsten Einheit als Einleitung für ein kurzes Gespräch über zukünftige Einheiten.
+
+Ich persönlich nutze diesen Zwischenreport so, dass auch ich den gleichen Fragebogen für die Kund\*innen aus Trainer\*innen-Sicht ausfülle. Diese beiden Versionen können wir abgleichen und daraus unserer Schlüsse ziehen.
+
+# Ausgewählte Methoden im Coaching
+
+Im Folgenden findest du ein paar Ideen, die du im Coaching anwenden kannst. Geh mit der Intention in die Einheit, eine dieser Methoden auszuprobieren und beobachte den Effekt bis zur nächsten Einheit. Achtung: Keines davon sind die ultimativen Lösungen die immer und für alle Kund\*innen (und Trainer\*innen) funktionieren. Probiere ein bisschen herum und *„Reject what is useless and add what is specifically yours"* -- Bruce Lee
+
+## Zeige es mir
+
+Viele Klient\*innen haben hohe Ansprüche an sich selbst und übernehmen sich häufig in ihren Vorhaben („5x die Woche 60min Laufen schaff ich."). Mit deiner Hilfe sollten sie realistische Ziele setzen, die sie auch bewältigen können. Manchmal wird behauptet man soll diese Ziele so klein wie möglich halten um sie dann zu erreichen (Clear, 2018). Dies funktioniert aber nur, wenn die Klient\*innen diesen Ansatz auch akzeptieren können. Mehrmals habe ich mit diesem Ansatz die Erfahrung gemacht, dass die Klient\*in den Erfolg, den sie dabei erzielt haben nicht annehmen konnten. Der „Success breeds success" Ansatz funktioniert jedoch nur, wenn die Person den Erfolg auch als einen solchen verbuchen kann. Ist die Aufgabe zu einfach wird sie ihn als selbstverständlich abtun. Die Attribution von Erfolg oder Misserfolg einer Handlung ist immer von mehreren Faktoren abhängig. Ein gewisser Schwierkeigkeitsgrad und das Gefühl sich angestrengt zu haben sind dabei jedoch entscheidend [@schunkChapterFourSelfefficacy2021].
+
+Eine Möglichkeit damit umzugehen ist es die Klient\*in damit herauszufordern. „Ok, du denkst, dass diese Strategie für dich richtige ist. Wunderbar -- zeige es mir, dass du es schaffst. Ich denke es ist eine Herausforderung, aber ich glaube, dass du es schaffen kannst. Danach leiten wir den nächsten Schritt ein.
+
+### Verbesserungen verstehen
+
+Die Grundlagen einer neuen Fähigkeit zu erlernen -- sei es kochen, malen, eine Sportart oder gute Gespräche zu führen sind meist recht einfach. Nach ein paar Fehlversuchen scheint man sich regelrecht mit jedem Versuch linear zu verbessern. Mit zunehmendem Expertentum wird es jedoch schwerer und schwerer weitere Verbesserungen zu erzielen. So ist es auch mit vielen Prozessen die deine Klient\*innen betreffen. Nach einer anfänglichen Phase des Erfolgs wird es zunehmend schwieriger besser zu werden. Nach wenigen Einheiten ist es möglich eine Strecke von 5km durchzulaufen, aber die Zeit zu verbessern wird zunehmend schwerer. Die ersten Kilogramm purzeln schnell von der Waage, aber ein Six-pack ist nicht von heute auf morgen erreichbar. Während dieser Umstand von außen betrachtet einleuchtend erscheint, führt er aus der persönlichen Perspektive zu Problemen. Der Umstand, dass der Fortschritt immer langsamer werden kann und es auch Plateaus oder Regressive Momente geben kann sollte früh genug kommuniziert werden. Auch hier ist die richtige Kommunikation das A und O. Nachdem der erste Erfolg verbucht wurde, gilt es erst mal zu feiern und die Klient\*in auf die eigenen Anstrengungen hinzuweisen, die es ihr erlaubt haben hier anzukommen. Plädiere beim Übergang zum nächsten Ziel auf ihre neuen Fähigkeiten, die sie in diesem Prozess erlernt hat. Nun ist es ihr möglich eine neue Herausforderung anzugehen.
+
+Nach einer Phase der Zielerreichung sollten wir mit unseren Klient\*innen außerdem bewusst über den Prozess der Plateausisierung sprechen. Dieses Plateau ist jedoch nicht nur ein Hindernis am Weg zu weiterem Erfolg sondern kann als weiteres Lerninstrument genutzt werden. Das Plateau, das sich womöglich von selbst einstellt (z.B. nach den ersten 5kg Gewichtsreduktion) kann es als klares Ziel formuliert werden jetzt diesen Erfolg zu stabilisieren. Diese Phase kann auch genutzt werden um neue Energie zu tanken da es meist leichter ist erreichte Erfolge zu halten als neue oben drauf zu packen.
+
+[*Hier erscheint in Kürze: "Schwierigkeit von Aufbaben", "Fertiggerichte und Eigenkontrolle", "Erinnerungen", "Wiederholen ohne wiederholen" und "Magische Frage"*]{style="color:grey"}
+
+## Literatur

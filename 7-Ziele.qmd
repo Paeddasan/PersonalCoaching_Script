@@ -1,0 +1,109 @@
+# Ziele setzen und verfolgen
+
+## Motivation
+
+Motivation und Volition sind entscheidende Themen, wenn es um die Verbesserung von gesundheitsorientiertem Verhalten, Bewegung und Training geht. Leider ist es schwierig Motivation dauerhaft zu steigern und aufrecht zu erhalten[@birrerMotivationstraining2018]. Außerdem sollte angemerkt werden, dass hohe Motivation nicht unbedingt mit erfolgreicher Durchführung zusammenhängt [@rothermundAllgemeinePsychologieMotivation2011]. Dies wird auch als **Intentions-Verhaltens-Lücke bezeichnet** [@englertVolitionImSport2020]. Laut einer aktuellen Meta-Analyse schaffen es über 30% (95%CI \[29.5, 36.5\]) der Personen, die die Intention formen gesundheitsorientiertes Training zu machen nicht diesen Vorsatz erfolgreich umzusetzen. Nur 38.7% (95%CI \[35.0, 42.3\]) setzen eine Intention und schaffen es auch diese umzusetzen [@feilIntentionbehaviourGapPhysical2023]. Das zeigt, dass der Vorsatz allein nicht ausreicht, um eine positive Veränderung herbeizuführen
+
+Die Motivation zu erhöhen kann jedenfalls nicht durch einen einfachen Trick, durch anbrüllen der Klient\*innen oder Motivationsvideos passieren.
+
+*Sowohl den Trainer\*innen als auch den Klient\*innen muss klar sein, dass Motivation trainiert werden muss - ähnlich dem eigentlichen, sportlichen Training.*
+
+Motivationsinterventionen können sich auf zwei Ebenen abspielen: **Implizite Motivationsmethoden** verändern die **Umwelt** und äußere Umstände. **Explizite Motivationstrainings** geschehen auf der Ebene der Person. Gute Trainer\*innen wissen beide Bereiche gezielt einzusetzen, indem sie Klient\*innen unterstützen, über ihre innere Gedanken- und Gefühlswelt zu reflektieren und Unterstützung dabei bieten, die Umwelt zu gestalten. Die Ebene der expliziten Motivation wird durch den Trend der Gewohnheitssteuerung (*Habit formation*) aufgegriffen. Wir werden uns damit besonders in *Methoden des Coachings* auseinandersetzen.
+
+## Ziele setzen
+
+Wenn sich Menschen für Personal Coaching entscheiden, haben sie bereits einen motivationalen Schritt gemacht (vergleiche zum Beispiel Rubikon Modell - VO Sportpsychologie). Manche haben auch schon eine Vorstellung darüber, was sie durch das Training erreichen wollen.
+
+Oft formulieren sie dies als **Ergebnisziele**, die entweder sehr vage („fitter werden") oder bereits sehr spezifisch und vielleicht sogar messbar und terminisiert sind ([SMART](https://de.wikipedia.org/wiki/SMART_(Projektmanagement)) Regel): „Ich möchte 10kg bis nächstes Jahr abnehmen". Die Aufgabe der PCs ist es, sich gemeinsam mit den Klient\*innen diese Ziele genauer anzusehen. Manchmal werden Ziele etwas umformuliert, in neue Perspektiven gerückt oder greifbarer gemacht.
+
+Dieser Teil des Coaching Prozesses steht zumeist relativ am Anfang. Es benötigt aber ein wiederholtes Eingehen auf diese Vorsätze und Motive. So können sich die Ziele für manche Klient\*innen schnell ändern oder werden durch andere Ideen überlagert. Manchmal erkennen Personen auch, dass ihre Ziele nicht ihren **Wertvorstellungen** und ihrer selbst zugeschriebenen **Identität** entsprechen. Als PC ist es deine Aufgabe, die Personen zu unterstützen, durch diesen Prozess zu gehen. Selten hilft es die Kund\*innen von A nach B zu leiten. Weniger psychologische Tricks und Manipulationen, sondern viel mehr **Verständnis**, **Empathie** und **Zuhören** sind die Basis für diese Arbeit.
+
+Gute Ziele zu finden und zu verfolgen ist ein wichtiger Teil der Arbeit. Für die Klient\*innen haben die gesetzten Ziele vier Aufgaben:
+
+-   **Mobilisieren von Anstrengungsbereitschaft**
+-   **Aufmerksamkeit lenken**
+-   **Unterstützen die Entwicklung von Lernstrategien**
+-   **Erhöhen der Persistenz**
+
+Dabei unterscheiden wir Ziele nach mehreren Kategorien. Das Verstehen der Kategorien ist hilfreich, um Ziele gemeinsam mit den Klient\*innen umzuformulieren oder von einer anderen Seite zu betrachten. Je besser die Trainierenden ihre eigenen Ziele **verstehen** und je höher die **Identifizierung** und **emotionale** **Verbindung** mit diesen Zielen, desto stärker wirken sie. Wir unterscheiden hier:
+
+-   **Annährungs- und Vermeidungsziele**
+-   **Task orientation und ego orientation**
+-   **Kurzfristige und Langfristige Ziele**
+
+(Es werden in der Literatur auch andere Unterscheidungen getroffen.)
+
+**Annäherungsziele** sind „hin zu" Ziele. **Vermeidungsziele** sind „weg von" Ziele. Häufig kann das Gleiche dahinterstehende Bedürfnis der Klient\*innen in beiden Zielarten beschrieben werden. Je vielfältiger die Ausdrucksmöglichkeiten für das Ziel sind, desto besser. Ergründe mit den Kunden beide Zielarten.
+
+**Task orientation** (im Deutschen oft **Lernziele** oder **Aufgabenziele**) fokussieren sich auf die Verbesserung der eigenen Fähigkeiten oder der eigenen Wahrnehmung von sich selbst. Während dessen bezieht sich **ego** **orientation** (**Wettbewerbsorientierung**) auf den Vergleich zu anderen Personen.
+
+Es wird angenommen, dass **Lernzielorientierung**, **gepaart mit Annäherungszielen** am effektivsten sind [@birrerMotivationstraining2018]. Ein Hinführen zu dieser Art der Ziele ist häufig eine der ersten Aufgaben im Zielsetzungsgespräch.
+
+In der kognitiven Verhaltenstherapie (CBT) der dritten Welle, v.a. der **Acceptance and Commitment Therapie** (ACT) [@hayesAkzeptanzCommitmentTherapieAchtsamkeitsbasierte2014], die aktuell für viele unterschiedliche klinische Bereiche als eine effektive Methode angesehen wird und starke Evidenzen aufweist, vertritt die Idee, dass Ziele der selbst zugeschriebenen **Identität** und **den eigenen Werten** entsprechen sollen. Theoretischen Rückhalt bekommt diese Idee durch das Modell der **Selbstkonkordanz** [@sheldonGoalStrivingNeed1999], eine Erweiterung der verbreiteten Self-determination Theory. Diese Idee findet zunehmend auch im Coaching Zuspruch.
+
+Hayes unterscheidet 10 Wertebereiche:
+
+-   Ehe, Partnerschaft / innige Beziehungen
+-   Elternschaft
+-   Stabile familiäre und verwandtschaftliche Beziehungen
+-   Freundschaft / soziale Beziehungen
+-   Karriere / Erwerbstätigkeit
+-   Bildung / Persönliches Wachstum und Entwicklung
+-   Erholung / Muße
+-   Spiritualität, Religiosität
+-   Gesellschaftliches Engagement
+-   Gesundheit/körperliches Wohlbefinden
+
+Es mag auf den ersten Blick so scheinen als könne nur das letzte hiervon mit Training in Zusammenhang gebracht werden. Das ist aber ein Trugschluss. Überlege vielleicht mal nach deinen Erstgesprächen mit deinen Klient\*innen welche Wertebereiche hier angesprochen wurden. (Eine ausführlichere Werteliste findest du zum Beispiel bei der [ValueAcademy](https://www.values-academy.de/wp-content/uploads/2022/01/WERTE-LISTE_Download_220105.pdf) (Ich kenne das Unternehmen sonst nicht und kann nichts über ihre Qualität sagen. Ich kenne nur die Liste.) Eine Handlung kann dann am ehesten verfolgt werden, wenn es den Werten einer Person entspricht. Gelingt es dir als PT gemeinsam mit deinen Klient\*innen herauszufinden welche Werte sie sich durch das Training erfüllen würden, erleichtert das ihre Handlungsbereitschaft.
+
+**Kurzfristige** und l**angfristige** **Ziele** beschreiben die zeitliche Dimension. Im besten Fall werden kurzfristige Ziele als **Teilziele** der langfristigen Ziele formuliert. Je weiter die Ziele in der Zukunft liegen, desto wichtiger sind kurzfristige Zwischenziele. Werden Ziele zu abstrakt und zu groß, kann man sie leicht aus den Augen verlieren. Das übergeordnete Ziel 10kg im kommenden Jahr abzunehmen kann durch das kurzfristige Ziele subjektiv erreichbarer gemacht werden. So könnte ein kurzfristiges Ziel lauten, sich nächste Woche drei Mal zu Bewegen.
+
+## Vom Ziel zur Handlung und dauerhafte Abschirmung (Volition) {#sec-ziel-handlung}
+
+Ziele könne nicht immer sofort erreicht werden. Gerade im Sport und im Training gilt die Heuristik, **dass Menschen überschätzen, was sie in kurzer Zeit erreichen können und unterschätzen was sie langfristig erreichen können**. Dagegen muss ein Maß an Abschirmung und Persistenz aufgebaut werden. Eine Möglichkeit zur Abschirmung ist **eine konkrete Planung und eine Handlungsstrategie.** Es bietet sich für Klient\*innen im PC an, nicht nur zu besprechen, wie lange es realistisch dauern wird, um ihr Ziel zu erreichen. Es sollte auch geklärt werden was passieren wird, wenn sie es erreichen und was passieren wird, wenn sie es nicht erreichen. Genaue Überlegungen zu konkreten Handlungen [**Implementation Intention**; @gollwitzerImplementationIntentionsGoal2006] sind hierbei empfehlenswert. „Wenn ich bei A bin, dann werde ich erst B machen, dann C..."
+
+Übung: Klient\*innen sagen folgende Sätze:
+
+-   „Ich will weniger Fleisch essen."
+-   „Ich muss früher ins Bett gehen."
+-   „Ich sollte im Büro die Treppen nehmen anstelle des Aufzugs."
+-   „Ich will meinen Bizeps aufblasen"
+
+Übersetze diese Aussagen in einen konkreten **Handlungsplan**. Findest du auch einen **Bewältigungsplan**, wenn etwas zu Erwartendes dazwischenkommt. Beispielsweise könnte es sein, dass ein Klient sich vornimmt, in der Mittagspause eine kleine Runde spazieren zu gehen. Ein Kollege fragt ihn jedoch regelmäßig, ob sie gemeinsam essen woraufhin er immer zusagt. Im Nachhinein ist er dann immer unzufrieden und am Nachmittag plagen ihn Rückenschmerzen. Ein Bewältigungsplan wäre zum Beispiel: „Wenn Martin mich in der Mittagspause fragt, ob wir gemeinsam essen, dann schlage ich ihm vor, dass wir gemeinsam eine Runde spazieren gehen. Wenn er ablehnt, sage ich ihm wertschätzend, dass ich zwar gerne mit Ihm Zeit verbringe, mir die Bewegung aber sehr wichtig ist. Egal wie er sich entscheidet, gehe ich dann unumgänglich 20min durch den Park ums Eck." Beachte wie konkret der Bewältigungsplan formuliert ist.
+
+Ähnlich kann auch **Affectiv Forcasting** genutzt werden. Besonders für Personen, die keinen Spaß am Training und an der Bewegung finden, sondern nur der Effekte und des Ziels wegen trainieren, ist es wichtig das Training mit einer **positiven Emotion** zu versehen. Im Coaching kann man zum Beispiel über Fragen wie: „Wie würde sich das Erreichen von X für dich anfühlen?" an diese positive **Konsequenzerwartung** andocken. Fällt es den Klient\*innen schwer, kann es auch hilfreich sein an vergangene Erfolge anzuknüpfen und erst diese mental aufzurufen. Je besser es gelingt Klient\*innen in dieses Erleben eintauchen zu lassen, desto wirkungsvoller. Dabei sollte es nach Oettingen und Reininger [-@oettingenPowerProspectionMental2016] **nicht zu einem Fantasieren** über eine mögliche Zukunft kommen, sondern bewusst die **emotionale Ebene** herangezogen werden. Eine Meta-Analyse zu affective forcasting im Zusammenhang mit medizinischen Entscheidungen zeigt positive Effekte (sehr unterschiedlicher Effektstärken). Die Autoren weisen darauf hin, dass es häufig zu **Fehlinterpretationen** der eigenen zukünftigen Affekte kommt. Menschen können nicht einschätzen, wie sie sich in Zukunft fühlen werden und bewerten meist zu intensiv. Menschen glauben, dass sowohl negativ als auch positiv bewertete Ereignisse sie viel stärker und länger beeinflussen, als sie es dann tun [@ellisInterventionsEngageAffective2018]. Eine **Relativierung dieser Erwartung** ist daher wichtig.
+
+Zusätzlich kann auch der Kontrast zum Istzustand (**mentales Kontrastieren**) herangezogen werden. In der Methode nach Oettingen wird erst der **beste Outcome** mental aufgerufen. Dann wird über die **Hindernisse und Aufgaben** reflektiert und schließlich über den **zweitbesten Outcome**. So soll eine Absicherung gegenüber überhöhten Erwartungen erstellt werden. Schließlich werden **konkrete Pläne, im Sinne der „Wenn-dann" Sätze, geschmiedet**. Diese sollten so spezifische wie möglich sein [@oettingenPowerProspectionMental2016].
+
+Das Setzen von **Zwischenzielen** ist im PC ebenfalls häufig notwendig. In der Praxis ist es die Aufgabe der PCs die Klient\*innen immer wieder auf diese Zwischenziele hin zu weisen und diese auch termingerecht zu dokumentieren, falls notwendig zu testen und gemeinsam zu reflektieren. Hier bleibt wieder der Verweis auf die Verbesserung der Einschätzung **der eigene Wirksamkeit**: „Was hast *DU* gemacht, damit du jetzt von A nach B gekommen bist?", „Wie war dieser Prozess für dich?", „Wie bist du mit den Hindernissen umgegangen?"
+
+Eine andere Methode bietet das Züricher Ressourcen Modell. Beim so genannten Wunderrad soll für schwierige Situationen eine Auswahl von 5 Strategien erstellt werden. Aus diesen 5 Strategien kann die Person dann später, wenn die Situation eintrifft frei wählen. Mehr Optionen soll den Coachees unter anderem mehr Zuversicht bieten.
+
+Probier es aus. Ein Wunderrad findest du im Moodle-Kurs.
+
+## Weitere Aspekte von Zielen:
+
+### Selbstwirksamkeitserwartung zur Zielverfolgung
+
+Nach Bandura wurden vier Bereiche definiert, die zu einer verbesserten Selbstwirksamkeit führen [@lippkeSozialkognitiveTheorienUnd2007]:
+
+-   Erfolgreiches Handeln
+-   Stellvertretende Erfahrungen (Modelle)
+-   Symbolische Erfahrungen (Erklärungen)
+-   Emotionale Erregung
+
+Während allgemein häufig behauptet wird, dass Selbstwirksamkeit maximiert werden soll, ist es wohl eher so, dass es wichtig ist, dass Personen ein realistisches Bild ihrer Selbstwirksamkeit gewinnen [@birrerMotivationstraining2018]. Welche konkreten Strategien fallen dir als Coach ein, um die Selbstwirksamkeit deiner Klient\*innen zu stärken und sie so in ihrer Zielerreichung zu unterstützen?
+
+### Konkurrenz von Zielen
+
+Häufig wird nicht bedacht, dass ein Ziel immer auch das Nicht-Verfolgen eines anderen Ziels bedeutet und, dass manche Ziele direkt miteinander konkurrieren (wie maximale Muskelmasse und erfolgreicher Langstreckenlauf). Das Abschirmen gegenüber konkurrierenden Zielen ist ein weiterer Grundstein zur Zielverfolgung.
+
+Viele der Menschen, die über längere Zeit trainieren, machen das nicht nur aus dem Grund, weil sie ein spezielles Ziel verfolgen. Training kann auch einfach aus dem Grund gemacht werden, weil es ihnen intuitiv guttut, als rein *atelische* *Aktivität*. Sie verfolgen kein Ziel damit und träumen nicht vom Moment, wenn sie endlich die 100kg Bankdrücken geschafft haben. Wenn wir als Trainer\*innen wollen, dass unsere Kund\*innen eines Tages auch intuitiv trainieren wollen (nicht müssen), dann dürfen wir, so meine persönliche pet-theory, nicht nur an diesen Zielen hängen bleiben. Ich denke, dass wir damit in eine ähnliche Falle tappen wie Arbeitgeber\*innen, die finanziellen Anreiz für Handlungen bieten, die aus Gründen intrinsischer Motivation passieren. Am Ende schneiden wir schlechter ab.
+
+### Willenskraft und Ego Depletion
+
+Nach Baumeister [@baumeisterEgoDepletionSelfregulation2003] kann es durch Willensanstrengung zur Erschöpfung des Willens kommen. So kann es sein, dass es nach einer mental oder emotional fordernden Aufgabe schwer ist, eine andere schwierige Aufgabe zu meistern. Nach einem besonders fordernden Arbeitstag ist es nach dieser Theorie zum Beispiel besonders schwer, sich für Training zu motivieren. **Ego Depletion** wurde in den letzten Jahren stark kritisiert und viel während der **Replikationskriese** in Ungade [@vohsMultisitePreregisteredParadigmatic2021]. Trotzdem ist es ein sehr bekanntes Phänomen und Klient\*innen beziehen sich sogar manchmal darauf. Sie können sich selbst „etwas zu gönnen", da schließlich ihre „Willenskraft erschöpft ist". Eine hilfreiche Erinnerung für diese Klient\*innen ist mit ihnen zu besprechen, dass Baumeister auch der Meinung ist, dass Willenskraft trainiert werden kann. Es ist zwar heute besonders anstrengend ins Training zu gehen, aber genau dadurch handeln sie entsprechend ihrer Identität und ihren Werten. Genau durch dieses Handeln „trotz der Erschöpfung" wird es nächstes Mal etwas leichter. In der ACT wäre die entsprechende Phrase zum Beispiel: *„Bin ich gewillt trotz meiner Müdigkeit und meiner Unlust ins Training zu gehen, da mir Zuverlässigkeit/Durchhaltevermögen (= mögliche Werte) sehr wichtig sind?"* **Sie trainieren also jemand zu sein der/die trainiert (=** Identität)**.** Im Sport wird in den letzten Jahren zunehmen das Konzept von **Mental Fatigue** erforscht. Während die genaue Theorie etwas von der Willenskrafttheorie nach Baumgartner abweicht, sind die Ergebnisse ähnlich. Sportler\*innen sind nach einer anspruchsvollen mentalen Aufgabe nicht mehr in der Lage sich körperlich voll zu erschöpfen. Während diese Ergebnisse recht robust für z.B. All-out Ausdauerbelastungen zu sein scheinen [@roelandsPhysiologicalNatureMental2022], sollte man vorsichtig mit der Übertragung ins Personal Coaching sein. Ob deine Kunden auf 2000m Ruderergometer 14 oder 15 Minuten brauchen (was ein ungewöhnlich hoher Effekt durch Mental Fatigue wäre), wird auf Dauer die Trainingsanpassung wohl nur gering beeinflussen. Gute Strategien gegen Mental Fatigue sind recht einfach: motivierende Musik, Koffein und endlich der Einsatz des *Jocko Willink* Motivationsvideos [ = Externe Motivation; @proostHowTackleMental2022].
+
+<!--# es fehlen noch Prozess vs. Ergebnisziele: sowie SMART, CLEAR und VISION und andere -->
+
+## Literatur

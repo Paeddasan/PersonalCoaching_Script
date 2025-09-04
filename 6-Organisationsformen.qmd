@@ -1,0 +1,83 @@
+# Mein Business - Organisationsformen als Trainer\*in {#sec-mein-business}
+
+Betreuungskonzepte können sehr unterschiedlich ausfallen. Manche PCs bieten einzelne Stunden, andere bieten Pakete mit unterschiedlichen Zusatzleistungen an. Zu **1-on-1** (1 Kund\*in und 1 PT) kommen viele **2-on-1** (2 Kund\*innen und 1 PT) und verstärkt **Kleingruppentraining** Angebote hinzu.
+
+Manche Trainer\*innen kommen zu den Trainierenden **nach Hause**, manche bieten **Training im Freien** an, besitzen ein **eigenes (Mikro-)Studio** oder sind stundenweise **eingemietet**.
+
+**Stabilität** und Sicherheit für die Trainer\*innen gehen dabei manchmal auf Kosten von **Flexibilität**. Ein eigenes Studio zu betreiben bedeutet zum Beispiel hohe regelmäßige Ausgaben. Gleichzeitig ist es oft einfacher Neukund\*innen zu bekommen und es gibt keine Fahrtzeiten. Bei guter Auslastung ist der Gewinn meist höher. Auf der anderen Seite bietet es viel Flexibilität und Unabhängigkeit sich in Studios einzumieten. Bei einem kleineren Kundenstamm ist dies auch die lukrativere Variante. Manche Varianten benötigen also mehr **Startkapital** als andere.
+
+Hausbesuche sind mit mehr **Fahrtzeiten** und **Vorbereitungszeit** verbunden**.** **Reichweite** kann durch Online Angebote groß sein, benötigt aber gänzlich andere Fähigkeiten als remote zu arbeiten.
+
+**Die richtige Auswahl und Mischung von Angeboten soll gut überlegt sein.**
+
+Im Folgenden sollen vor allem kundenzentriert die Unterschiede der Organisationsformen angesprochen werden.
+
+**1-on-1** steht für individuelle Betreuung und ist häufig auch einfach Luxus- und Statussymbol für manche Klient\*innen.
+
+1-on-1 mit einer erfahrenen Trainer\*in verspricht die effektivste Method zu sein, um die eigenen Ziele zu erreichen. Es ist jedoch lange nicht bewiesen[^6-organisationsformen-1], dass Kund\*innen im Einzelsetting bessere Ergebnisse erzielen als in der Kleingruppe. Viele wichtige Elemente der **Gruppendynamik, lernen an Modellen oder das Gefühl der Verantwortung** gegenüber anderen Mittrainierenden fehlen. 1-on-1 kann jedoch einen Vorteil für Personen bieten, die nicht in Gruppen trainieren möchten, weil sie **individuelle Bedürfnisse** haben, auf die (so scheint es) in der Gruppe nicht eingegangen werden kann. Dieses Problem wurde zum Beispiel erfolgreich von McLaughlin et al. [-@mclaughlinProjectGYMRandomized2021] an Hämophilie-Patienten aufgegriffen. Hier trainierten die Patient\*innen mit eingeschulten Trainer\*innen oder alleine. Jene mit Trainer\*in hatten nicht nur ähnliche physische Fortschritte aufzuweisen, sondern vor allem weniger negative Events (Gelenkseinblutungen und Schmerzen). Eine Review aus dem Jahr 2022, die einen direkten Vergleich zwischen Gruppen- und Individualtherapie bei Erwachsenen mit Adipositas durchführte stellte über die zehn eingeschlossenen Studien insgesamt keine nennenswerten Unterschiede zwischen den Interventionsarten. Die Autoren führten auch eine kleine Meta-Analyse anhand drei Studien durch, die etwas bessere Ergebnisse für die Gruppentherapie wahrscheinlich machen [@streetAreIndividualGroup2022]. Eine weitere Metaanalyse, die 2017 im BJSM publiziert wurde, hat Gruppen- und Individualbewegungstherapie (exercise therapy) bei muskoloskeletalen Erkrankungen verglichen. In dieser Metaanalyse wurden 12 Studien eingeschlossen. Auch hier gab es keinen klinisch relevanten Unterschied zwischen Gruppen- und Individualtherapie [@okeeffeAreGroupbasedIndividual2017].
+
+[^6-organisationsformen-1]: Das Wort "bewiesen" ist ohnehin ein starkes und sollte vielleicht mit Verweis auf aktuelle Wissenschaftstheorie ohnehin vermieden werden. <!--# https://www.tandfonline.com/doi/full/10.1080/03080188.2022.2150807-->
+
+Ähnliche Arbeiten gibt es für den Bereich der Psychotherapie[@guoIndividualVsGroup2021; @pozzaDropoutEfficacyGroup2017].
+
+Einzelbetreuung kann angenehm für Personen sein, die aus verschiedenen Gründen den kompetitiven Elementen in Gruppen aus dem Weg gehen möchten. (Das bedeutet nicht unbedingt, dass diese Leute weniger kompetitiv sind.)
+
+Kund\*innen zahlen für 1-on-1 eine im Verhältnis große Menge an Geld. Das steigert auch direkt die Wertigkeit [@leroi-wereldsUpdateCustomerValue2019] und damit möglicherweise auch die Motivation zum Training. Aus meiner persönlichen Erfahrung heraus erzeugen gerade Absageklauseln eine (externe) Motivation für Kund\*innen, Trainingseinheiten nicht zu verpassen. Aber auch persönliche Verantwortung ist ein Grund für Kund\*innen dem „geliebten Trainer" nicht kurz vorher abzusagen.
+
+Eine der wenigen derzeit veröffentlichten RCTs zu den Effekten von 1-on-1 Personal Training betrachtete als Neben-Outcome die Adhärenz von übergewichtigen Frauen beim Training [@rustadenEffectsBodyPumpResistance2017]. Teilnehmerinnen, die einen PT hatten, kamen zu wesentlich mehr der vorgegebenen Einheiten als jene, die in einer Gruppenstunde waren oder nur einen Trainingsplan bekommen haben. Betrachtet man rein die physischen Effekte des Trainings, so zeigen sich in der Studie von Rustaden et al. [-@rustadenEffectsBodyPumpResistance2017], passend zu den oben erwähnten Arbeiten, geringe bis keine Unterschiede im Kraftzuwachs zwischen jenen Personen mit, gegenüber jenen ohne PT. Wobei angemerkt werden muss, dass die PTs in ihrer Handlungsfreiheit stark eingeschränkt waren. Diese Limitierung war zur Standardisierung und Vergleichbarkeit der Trainings in einem RCT sicher notwendig. Es spiegelt aber nicht die Arbeit der meisten Trainer\*innen wieder. Bei Mazzetti et al. [-@mazzettiInfluenceDirectSupervision2000] konnten die Personal Trainer\*innen die Belastungsprogressionen etwas freier gestalten, während die unbetreute Gruppe einer vorgegebenen linearen Progression folgte. In dieser Untersuchung an gesunden, mäßig trainierten Männern zeigten sich stärkere Verbesserungen der Kraft in der PT Gruppe. Der Grund dafür war wohl in beiden Studien unter anderem die höheren Lasten, die 1-on-1 Trainierende verwendeten. Einen Unterschied in Adhärenz gab es bei Mazzetti et al. [-@mazzettiInfluenceDirectSupervision2000] jedoch nicht.
+
+Storer et al. [-@storerEffectSupervisedPeriodized2014] verglichen das Training mit PT mit einem Training nach vorgegebenen Plan aber ohne PT und mit einem unstrukturierten Training ohne Einschulung ( = selbstgewähltes Training). Hier zeigten sich erwartungsgemäß Verbesserungen in der PT Gruppe und in den meisten Outcomes keine Verbesserungen bei den Männern, welche selbstgewähltes Training durchführten. Von einem Unterschied in der Adhärenz wird in der Studie nicht berichtet.
+
+Schließlich unterstützen Untersuchungen von Ratamess et al. [-@ratamessSelfselectedResistanceTraining2008] und Dias et al. [-@diasInfluencePersonalTrainer2017] die Vermutung, dass ein Grund für die Effektivität von PT im 1-on-1 Setting ist, dass die Personen mit höheren Lasten und größerem Volumen trainieren.
+
+Die Erkenntnis, dass es keine großen Unterschiede zwischen individueller Betreuung und der Betreuung einer ganzen Gruppe gibt, scheint kontraintuitiv. Worin könnte dieses Ergebnis begründet sein?
+
+Einerseits ist es möglich, dass es kaum individuelle Anpassung der Interventionen benötigt und die meisten Personen von einem generellen Trainingsansatz profitieren. Andererseits sind wir vielleicht einfach schlecht darin wirklich auf die Bedürfnisse einzelner Klient\*innen einzugehen. Gerade in Studien, die sich einem direkten Vergleich zwischen Einzel und Gruppenbetreuung widmen, sind die Arbeitsmöglichkeiten im Einzelsetting meist stark limitiert, da sie gewisse Standards erfüllen müssen um in Studien vergleichbar zu sein. Möglicherweise wird so ein verzerrtes Bild in der wissenschaftlichen Forschung erzeugt. Ein weiterer Faktor könnte auch sein, dass individuelle Betreuung einen spezifischen Effekt hat, aber Gruppenbetreuung ebenfalls spezifische Effekte aufweist. Die Wirkungsweisen sind zwar unterschiedlich, gleichen sich aber in Summe aus.
+
+Zusammengefasst sollten wir fürs Erste den Schluss ziehen, dass wir sowohl mit 1-on-1 als auch mit Kleingruppen ein optimales Setting und gute Resultate erzielen können. Wir sollten also die Präferenzen der Kund\*innen miteinbeziehen.
+
+**2-on-1** kann aus finanziellen Gründen von Klient\*innen präferiert werden. Manche Personen empfinden es aber auch als unangenehm mit der/dem PC allein zu sein und wählen daher die 2-on-1 Version. Andererseits kann es auch einfach eine Strategie sein, um Zeit mit einem/einer Freund\*in oder einem Familienmitglied zu verbringen. Wissenschaftlich sind mir keine direkten Vergleiche zwischen 1-on-1 und 2-on-1 Coaching bekannt.
+
+Anekdotisch ist die Dynamik in 2-on-1 Settings sehr unterschiedlich. Manchmal führt das Setting zu einer Unter- oder Überforderung einer Person. Gerade in nahen Beziehungen zwischen den Trainiereden kann es auch während der Trainingseinheit zu Konflikten kommen. Trotzdem sollte ein\*e PC nicht generell von 2-on-1 zurückschrecken. Aus persönlicher Erfahrung profitiert gerade die weniger trainierte oder ältere Person stark vom gemeinsamen Training mit der Bezugsperson. Möglicherweise lassen sich auch Ergebnisse aus der klinischen Forschung hier als Erklärungsmodell heranziehen. So profitieren die stärker betroffenen Patient\*innen in einer Gruppe oder in einem gemeinsamen Krankenhauszimmer von der Anwesenheit der weniger stark betroffene Patient\*innen oder jenen, die eine Operation schon hinter sich haben. Währenddessen tragen die weniger betroffenen wahrscheinlich keine negativen Effekte durch die Anwesenheit der stärker betroffenen Patient\*innen davon[@felicetongImpactRoomSharingLength2021; @floreyPatientPreferencesSingle2009] .
+
+**Kleingruppentraining** ist aktuell besonders gefragt. Sie bieten die Motivation und das Erleben der Gemeinschaft. Dabei fallen pro Person geringere Kosten an.
+
+Mehr Personen bedeuteten für die PCs immer eine genauere Planung der Trainingsinhalte und eine höhere Eigenständigkeit der Trainierenden. Kleingruppen haben den Vorteil des sozialen Lernens und lernen an Modellen. Mit zunehmender Personenanzahl sinkt auch meist der Anteil an Coaching-Elementen und reines Training oder das „Workout" nimmt zumeist die Überhand. Andererseits können, wenn sich die Gruppe schon etwas kennt, auch „Coaching-Lösungen" direkt aus der Gruppe kommen. Das macht es manchmal für Trainierende sogar einfacher Tipps von gleichgesinnten anzunehmen als von der „fitten Trainerin". Wayment und McDonald [-@waymentSharingPersonalTrainer2017] machen den Versuch das Konzept von personalisiertem Kleingruppentraining zu untersuchen. Sie zeigen, dass das Trainieren in Kleingruppen mit **hoher Motivation, Wohlbefinden und verstärkter Selbstwirksamkeit** bei den Trainierenden einherging. Ein nicht diskutierter Kritikpunkt in der Studie könnte sein, dass die Kund\*innen normalerweise selbst ihre Trainer\*innen wählen können. In der Studie werden diese kurz vor der Einheit zugelost. Eine direkte Vergleichsstudie zwischen 1-on-1 und Kleingruppentraining wurde von Leach et al.[-@leachEffectGroupDynamicsBased2019] mit Brustkrebspatientinnen durchgeführt. Die Autor\*innen waren besonders interessiert an den subjektiven Outcomes der Trainierenden und zeigten, passend zu ihrer Hypothese, höhere *Quality of Life* aber auch höhere *physical activity levels* in den Kleingruppen. Das Besondere an dieser Studie ist auch, dass hier Coaching-Elemente (Gruppendiskussionen und Vorträge zu physischer Aktivität, Zielsetzung und Motivation) abgehalten wurden. Diese Coaching-Elemente wurden sowohl bei 1-on-1 Einheiten als auch in der Gruppe durchgeführt.
+
+Ein Vorbehalt gegenüber Kleingruppen ist die höhere Verletzungsgefahr durch erschwertes Lehren der Übungsausführung und überhöhte Ansprüche und Motivation in der Gruppe. Ersteres soll in einem späteren Kapitel [@sec-motorlearning] nochmal aufgegriffen werden.
+
+Gerade *Functional Fitness Training* (FFT) [@dominskiFunctionalFitnessTraining2022] in Gruppen, (wichtigster Vertreter davon ist CrossfitⒸ), haben den Ruf gefährlich zu sein (oder auch eine kultähnliche Struktur zu entwickeln - siehe „[Why everyone Hates Crossfit](https://www.youtube.com/watch?v=2XNcEFPXif0)"). Verglichen mit klassischem Fitnesstraining („Bodybuilding style"-Krafttraining, Laufen, Radfahren...) ist die Verletzungsrate im Crossfit wohl wirklich erhöht, jedoch nicht höher als in anderen komplexen Sportarten [@gardinerInjuryRiskInjury2020; @meyerBenefitsRisksCrossFit2017]. Wahrscheinlich kann die Verletzungsgefahr stark durch die Übungsauswahl und das *Programming* beeinflusst werden. Ein weiterer Faktor ist, dass unterschiedliche „Personentypen" auch unterschiedliche Angebote aufsuchen. Teilnehmende an FFT Stunden sind dementsprechend meist auch hoch motiviert oder kompetitiv [@dominskiPsychologicalVariablesCrossFit2021].
+
+## Geschäftsmodelle
+
+Coaches arbeiten in verschiedenen Geschäftsmodellen:
+
+-   Angestellt in einem Studio
+    -   keine Investition
+    -   keine Betriebskosten, Werbemittel, Trainingsgeräte
+    -   fixes Einkommen
+    -   Sicherheit
+    -   Keine eigenständige Preisgestaltung
+    -   meist geringe Bezahlung
+-   Selbstständig mit eigenem Studio
+    -   Eigenständige Preisgestaltung
+    -   Freie Einteilung (= immer anwesend )
+    -   Hohe Kosten (Investition, stehende Kosten, Abnützung...)
+    -   Hoher Zeitaufwand
+    -   Risiko
+-   Selbstständig eingemietet oder mobil
+    -   Eigenständige Gestaltung
+    -   Freie Arbeitseinteilung
+    -   Geringeres Startkapital
+    -   Geringes Risiko
+    -   Kosten mittel
+    -   Zeitaufwand durch Fahrzeiten oder Abhängigkeit von verfügbaren Mietplätzen
+
+Darüber hinaus exisitern natürlich auch andere Modelle und Mischformen. So können eigene Studios an andere Trainer\*innen vermietet werden. Manche erfahrene PCs geben ihr Wissen in form von bezahlten Workshops oder Seminaren an Anfänger\*innen weiter. Da Sportwissenschafter\*innen und Trainer\*innen, anders als Gesundheitsberufe, ein Wirtschaftszeig sind, steht es ihnen auch offen, z.B. Fitnessgeräte oder Supplemente zu vertreiben. Deiner Kreativität sind keine Grenzen gesetzt.
+
+::: {.callout-tip}
+Sprich darüber am besten auch mit Trainer\*innen bei denen du supervidierst und den externen Vortragenden am Ende des Semesters!
+
+:::
+
+## Literatur

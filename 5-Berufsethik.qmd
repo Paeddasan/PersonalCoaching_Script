@@ -1,0 +1,52 @@
+# Berufsethik und Berufsbild {#sec-berufsethik}
+
+*Ein Personal Trainer, Max, arbeitet in einem großen Fitnessstudio und betreut eine Klientin, Sarah, die seit einigen Monaten bei ihm trainiert. Sarah hat das Ziel, Gewicht zu verlieren und allgemein fit zu werden. Sie macht gute Fortschritte, ist aber immer noch unsicher in Bezug auf ihre Fähigkeiten und ihren Körper.*
+
+*Während einer Trainingseinheit zeigt Sarah Max ein Fotovon einer sehr schlanken und durchtrainierten Influencerin. Sarah meint: "Ich möchte so aussehen wie sie. Was muss ich tun, um genau so auszusehen?"*
+
+*Max ist in einer schwierigen Position. Einerseits will er Sarah dabei unterstützen, ihre Ziele zu erreichen und sich gut zu fühlen. Andererseits weiß er, dass das Bild, das sie zeigt, ein unrealistisches und potenziell schädliches Ziel darstellt. Es besteht die Gefahr, dass Sarah sich in unsichere und ungesunde Verhaltensweisen stürzt, um dieses Aussehen zu erreichen.*
+
+*Zusätzlich wird Max von der Geschäftsleitung des Fitnessstudios unter Druck gesetzt, die Bedürfnisse und Wünsche der Kund\*innen zu erfüllen, um das Geschäft am Laufen zu halten.*
+
+*Wie soll sich Max verhalten?*
+
+## Eine einheitliche Berufsethik, um die Profession zu schützen {#sec-ethikschuetzt}
+
+Sowohl in der Medizin als auch in bestimmten Bereichen der Technik (z.B. aktuell bekannt aus Forschung zu KI) und im Management gibt es gute Argumente für eine Berufsethik. Sie schützt uns zwar nicht vor schweren Entscheidungen und nimmt uns nicht die Verantwortung ab, aber sie gibt uns eine Richtline und macht die eigenen Entscheidungen und das eigene Handeln transparenter. Das hebt die Qualität der Arbeit und gibt uns vor allem eine innere Ausrichtung [@limentaniEthicalCodeEverybody1998; @marckmannQualitatUndEthik2022].
+
+Eine starke Verhaltensrichtlinie und professionelle Haltung sind auf Dauer entscheidend für den Beruf. Denn Klient\*innen, die breite öffentliche Meinung, aber auch besonders die Meinung von anderen Professionen im Gesundheits- und Sportsektor entscheiden über die Zukunft des Berufes und über den persönlichen Erfolg. Nur wer das Vertrauen der Menschen genießt, kann sie unterstützen und etwas bewegen. **Vertrauen können jene genießen, die nach klaren und offenen Prinzipien handeln.**
+
+Ohne starker einheitlicher Interessensvertretung (wie die Kammern oder Verbände anderer Berufsgruppen) und ohne einheitliches obligatorisches Ausbildungscurriculum für Trainer\*innen bleibt die Berufsethik in eigener Hand.
+
+Ich argumentier hier, dass die Klarstellung der eigenen Ethik, Ziele und übergestellten Motive die Basis für die Berufsausübung sein muss und genau so wichtig sind wie Trainingswissenschaft oder Pädagogik!
+
+Um sich einen ersten Überblick zur eigenen ethischen Grundhaltung zu verschaffen, kann es hilfreich sein sich auf die Prinzipien ähnlicher Berufsgruppen zu beziehen.
+
+Eine vorgeschlagene Berufsethik könnte den [Berufskodex der Psychotherapeut\*innen](https://www.sozialministerium.at/dam/jcr:dea97f39-8567-4677-a84b-747fc49612a2/Berufskodex.pdf) und die [Ethical Principles der APA](https://www.apa.org/ethics/code) oder [die Berufsethik des Berufsverbandes der Physiotherapeut\*innen](https://www.physioaustria.at/sites/default/files/collection_files/physioaustriaethischegrundsaetze_0.pdf) als Vorlage verwenden.
+
+```{=html}
+<!--# **SSA Aufgabe:**
+
+*Lese die vorgeschlagenen Berufsethiken und überlege dir, wie ein ähnliches Dokument für PCs aussehen könnte. Was wären die für dich wichtigsten Punkte, die du in einer solchen Berufsethik sehen möchtest?*
+
+*Beschreibe abschließend deine wichtigsten Punkte der Berufsethik für Personal Coaches.* -->
+```
+\newpage
+
+```{=html}
+<!--# # Aktuelle Trends in der Fitnessbranche und im Personal Coaching {#sec-aktuelle-trends}
+
+### Fitnesssektor in Europa und Österreich
+
+Fitness und Gesundheit sind lukrative Märkte. Deloitte bringt über [EuropeActive](https://www.europeactive.eu/) jährlich einen Bericht zu den aktuellen Trends und Entwicklungen des Fitnessmarktes heraus. Während die Jahre 2020 und 2021 ein paar Veränderungen hervorbracht (Homegym, Kleingeräte, mehr Nutzung von online Produkten) bleibt insgesamt der Trend zu mehr Fitness und Sport erhalten. Vereinssport wird in den Deloitte Analysen nicht mit einbezogen. Sie verlieren jedoch mehr und mehr an Bedeutung. *Menschen in Europa sind bereit Geld für ihre Fitness und Gesundheit zu zahlen.*
+
+Personal Coaching ist nun seit einigen Jahren ein wichtiger Teil des Fitnessmarkts, wobei Kleingruppentrainings starken Zuwachs bekommen.
+
+Die Angebote, Methoden und Kompetenzen der Personal Trainer\*innen sind zwar sehr breit, jedoch gibt es einen klaren Fokus auf die Ziele *Muskelaufbau* und *Functional Training*.
+
+Personal Trainer\*innen sind zumeist nur wenige Jahre im Geschäft und arbeiten selten Vollzeit. Die Ausbildung von Trainer\*innen reicht von nicht-zertifiziert bis PhD Level.
+
+Die Präsentation fasst ein paar der wichtigsten Ergebnisse des *European Health & Fitness Market Reports* zusammen. Sie wurde von Benedikt Mitter erstellt.
+-->
+```
+## Literatur

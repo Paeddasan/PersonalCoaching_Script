@@ -1,0 +1,95 @@
+# Anamnese und Risiko Assessment {#sec-anamnese-risk}
+
+Die erste Aufgabe der Trainer\*innen ist zumeist eine Analyse des Ist-Stands durch ein **(teil)strukturiertes Eingangsgespräch**. Ziel dieses Kapitels ist es, uns zu überlegen, was bei diesen ersten Gesprächen wichtig ist.
+
+<!--# Praktisch beschäftigen wir uns mit der ersten physischen Beobachtung und Assessments. Des Weiteren wirst du einen Anamnesebogen selbst kreieren und bei deinen Kund*innen einsetzen.-->
+
+## Erstgespräch: {#sec-erstgespraech}
+
+Ein Anamnesegespräch / Eingangsgespräch wird meist in der ersten Einheit durchgeführt. Jedoch bedeutet das nicht, dass es damit auch abgeschlossen ist. Du wirst immer wieder neue Informationen von deinen Kund\*innen sammeln und manche Dinge werden sich auch ändern.
+
+Manche Trainer\*innen nehmen sich besonders viel Zeit für diesen ersten Termin (1,5 -- 2 h sind nicht unüblich). Andere denken, dass es besser ist, nur die wichtigsten Dinge abzuklären und dann schon in der ersten Einheit zielgerichtete Interventionen zu setzen.
+
+Eine umfangreiche und längere Anamnese kann Trainer\*innen helfen, von Anfang an ein "optimales" Betreuungskonzept zu finden. Wir in dieser Einheit auch kein Training durchgeführt, hat das auch den Vorteil, dass sich gut auf die ersten Interventionen vorbereitet werden kann. Gegenüber Klient\*innen wirkt diese längere Anamnese sehr professionell. Ein Nachteil ist jedoch, dass man vielleicht die erste Motivation der Kund\*innen nicht adequat umsetzen kann. Gerade für Personen, für die es ein Hindernis dargestellt hat sich für den ersten Termin zu melden, bedarf es jetzt eine weitere Willensanstrengung mit dem "richtigen Training/Coaching" zu starten. Ein weiterer Aspekt ist der geschäftliche. Manche PCs möchten es vermeiden, ihr Interventionen in der ersten Einheit an Neukund\*innen weiter zu geben. Die Klient\*innen müssen zumindest noch einmal einen Termin buchen. Die gewählten Interventionen kann dann individualisert und gezielter auf die Person zugeschnitten sein. In vielen Fällen ist diese jedoch mehr eine Marketing und Geschäftsstrategie, als eine Möglichkeit qualitativ besseres Coaching zu betreiben.
+
+Unabhängig der genannten Herangehensweise, stellt sich die Frage, wie eine erste Einheit entlohnt wird. Auch hier sind verschiedene Ansätze zu finden. Manche bieten kostenlose Probetrainings, während andere für die ausfühliche Anamnese und mögliche Fitnesstestungen mehr Geld verlangen als für folgende Einheiten.
+
+<!--# Übung: Welche Vor- und Nachteile haben diese beiden Herangehensweisen deiner Meinung nach?-->
+
+## Warum Erstgespräch?
+
+-   Kennen lernen
+-   Vertrauen und Rapport gewinnen
+-   Grobe Ziele und Erwartungen erfragen und definieren (was wollen wir erreichen)
+-   Möglichkeiten und Ressourcen klären (wo liegen die Grenzen)
+-   Konzept des Coachings erklären (wie arbeite ich)
+-   Kontaktdaten einholen (wie wollen wir in Kontakt bleiben)
+-   Gesundheitliche Voraussetzungen checken (auf was müssen wir achten)
+-   ABGs, Preise, Geschäftliches klären (Verkaufsgespräch)
+
+## Grundlegende Überlegungen:
+
+**Finde eine geeignet Lokalität:** Eine angenehme Atmosphäre ist wichtig. Angenehme Sitzgelegenheiten an einem ungestörten Ort (nicht mitten auf der Trainingsfläche) sind vorteilhaft. Vielleicht kannst du deinen Kund\*innen Kaffee oder Tee anbieten. Schreibe nur stichwortartig mit und am besten handschriftlich. So kann sich dein Gegenüber deiner Aufmerksamkeit sicher sein. Ein Bildschirm bildet eine Barriere und deine Kund\*in sieht auch nicht was du schreibst als wenn du dich hinter einem Bildschirm versteckst.
+
+**Der erste Eindruck zählt:** Klient\*innen müssen sich in der Situation wohl und sicher fühlen. Ein professionelles Auftreten und eine einladende Atmosphäre sind wichtig. Wie möchtest du dich präsentieren? Sportlich ist ok, aber je nach Zielgruppe kann es einschüchternd oder unprofessionell wirken, im Tank-top oder Crop-top zu erscheinen.
+
+**Sprich explizit dein Stillschweigen an:** Als Dienstleister hast du keine so strenge Schweigepflicht wie in medizinischen Berufen. Da du aber mit vielen Klient\*innen sehr persönliche Dinge besprechen wirst, solltest du klarstellen, dass alles was ihr besprecht vertraulich behandelt wird [@sec-berufsethik].
+
+**Sprechzeitregel - 80:20:** Je mehr du sprichst, desto weniger fühlt sich dein Gegenüber gehört und desto weniger Infos wirst du erhalten. Versuche aufmerksam zuzuhören und lasse auch mal ein paar Sekunden Stille zu. Oft sprechen die Kund\*innen dann von selbst weiter. 80% der Sprechzeit gehört den Kund\*innen, 20% dir.
+
+**Du hast eine Struktur - aber lass dich leiten:** Du solltest eine feste Struktur in deinem Anamnesegespräch haben. Es gibt Punkte, die du abfragen musst. Wenn Klient\*innen jedoch von selbst erzählen ist das noch besser. Du kannst später noch zu den Punkten, die dir wichtig waren zurückkehren.
+
+**Frage nach Erfahrungen:** Viele Menschen haben bereits etwas Erfahrung mit Training gemacht und versucht ihre Ziele zu verwirklichen. Wenn sie das erste Mal zu einem PT kommen sind sie manchmal bereits verzweifelt oder haben das Gefühl, es nicht alleine zu schaffen. Sie vergessen oft ihre vergangenen Errungenschaften. Beispielsweise kommen sie zu dir und erzählen, dass sie schon mal Diät XY probiert haben oder Trainingsform Z. Nach einem kurzen Erfolg haben sie jedoch nach ein paar Tagen/Wochen wieder aufgehört oder das Gewicht wieder zugenommen. Hier ist dein Moment genauer nachzufragen. *Was hat damals nicht geklappt* und vor allem *was hat gut geklappt*? Nutze die Erfahrung! Wenn jemand mit einem Ansatz schon gute Erfahrungen gemacht hat, kannst du dort wieder ansetzen. Auch Trainingserfahrungen mit vergangenen Trainer\*innen sind ein guter Ansatz. Vermeide es diese vergangenen Ansätze sofort zu diskreditieren, auch wenn sie vielleicht nicht das Wiederspiegeln, was du mit dem Kunden machen würdest. Das verunsichert Klient\*innen nur unnötig! Schau lieber was die Kund\*innen im Moment von dem Ansatz halten und baue dann von dort weg weiter auf. (Das bedeutet nicht, dass du Dingen zustimmen musst, die du für absolut kontraproduktiv hältst oder sogar ungesund sind. Auch sollst du nicht einfach deinen Klient\*innen das Training zuspielen, das sie sich wünschen! Du bist die Expertin/der Experte für Fitness, nicht sie.)
+
+**Fasse am Ende nochmal alles zusammen:** Du kannst am Ende nochmal alles, was du aufgeschrieben hast und was dir besonders wichtig erschienen ist wiederholen. Gib dabei deinem Gegenüber Zeit zu reagieren. Vielleicht hast du etwas falsch verstanden. Das ist nicht schlimm! Dein Gegenüber wird sich eher besser verstanden fühlen, wenn sie Dinge richtigstellen darf.
+
+## Risk Assessment {#sec-risk-assessment}
+
+Ein wichtiger Teil des Erstgesprächs ist es herauszufinden, ob du mit dieser Person ohne gesundheitliche Bedenken trainieren kannst. Wesentlich ist die Absicherung gegenüber **voreilige (fahrlässige) Fehlentscheidungen**! Gleichzeitig ist klar, dass fast alle Menschen von regelmäßiger Bewegung profitieren. Wir sollten den Personen keine zusätzlichen Hindernisse in den Weg legen. Daher wird es derzeit empfohlen, lediglich die wichtigsten absoluten Risiken zu erfragen. Nur wenn einer dieser Risiken vorliegt, sollte eine ärztliche Untersuchung und Freigabe notwendig sein. Das gilt auch für ältere Personen und wird von manchen Autor\*innen sogar für Patient\*innen vorgeschlagen [@burkow-heikkinenRolePersonalTrainers2009; @cressBestPracticesPhysical2005; @magalNEWPREPARTICIPATIONHEALTH2016].
+
+Ein Vorschlag des ACSM ist folgende Punkte in jedem Fall abzufragen [@magalNEWPREPARTICIPATIONHEALTH2016] [^8-anamnese-1]:
+
+[^8-anamnese-1]: Folgendes ist eine unvalidierte Übersetzung des Autors!
+
+**1 Symptome**
+
+Klient\*in beschreibt:
+
+-   Unbehagen in der Brust bei Anstrengung
+-   Unangemessene Kurzatmigkeit
+-   Schwindel, Ohnmacht, Blackouts
+-   Knöchelschwellung
+-   unangenehme Wahrnehmung eines starken, schnellen oder unregelmäßigen Herzschlags
+-   brennende oder krampfartige Empfindungen in den Unterschenkeln, wenn Sie kurze Strecken gehen
+
+Wenn diese Symptome vorhanden, sollte in jedem Fall **vor** der Belastung eine ärztliche Meinung eingeholt werden.
+
+**2 Aktuelle Aktivitäten**
+
+Führt die Person seit mindestens 3 Monaten geplante, strukturierte Bewegungsaktivitäten von mindestens 30min pro Einheit, drei mal die Woche? Ja/Nein
+
+**3 Medizinische Diagnosen**
+
+Klient\*in hat oder hatte:
+
+-   Herzinfarkt
+-   Herzoperation, Herzkatheteruntersuchung oder Koronarangioplastie
+-   Herzschrittmacher, implantierbarer Defibrillator oder Herzrhythmusstörungen
+-   Herzklappenerkrankung
+-   Herzinsuffizienz
+-   Herztransplantation
+-   angeborene Herzerkrankung
+-   Diabetes
+-   Nierenerkrankungen
+
+**Evaluation**
+
+-   Liegen keine Auffälligkeiten bei Schritt 1 und Schritt 3 vor benötigt es keine medizinische Freigabe.
+
+-   Trainiert die Person bereits regelmäßig (Schritt 2) während eine Diagnose (Schritt 3) vorliegt, kann moderates Training fortgeführt werden. Trotzdem sollte man auf eine medizinische Absicherung bestehen bevor Intensitäten erhöht werden.
+
+-   Wird kein regelmäßiges Training gemacht und liegt eine Diagnose vor sollte ebenfalls erst eine medizinische Freigabe durchgeführt werden.
+
+Als etablierten Workflow mit umfangreicher Literatur bietet sich speziell der [PARQ+](https://eparmedx.com/?page_id=79)an. Aktuell gibt es noch keine validierte deutsche Version dieses Fragebogens. In der Praxis sind jedoch unvaliderte Versionen, die im Internet zu finden sind, weitgehend ohne Probleme einsetzbar.
+
+## Literatur

@@ -1,0 +1,55 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Personal Coaching"
+  subtitle: "Skriptum zur Lehrveranstaltung"
+  author: 
+   - name: "Peter Raidl"
+   - id: "pr"
+   - orcid: 0000-0002-1850-734X
+   - email: peter.raidl@univie.ac.at
+  license: CC0 1.0 Universal
+  date: "14 December, 2024"
+  chapters:
+    - index.qmd
+    - 1-ChangesContribution.qmd
+    - 2-intro.qmd
+    - 4-WhatsPC.qmd
+    - 5-Berufsethik.qmd
+    - 6-Organisationsformen.qmd
+    #- 7a-Kontaktaufnahme_Erstgespraech.qmd
+    - 7-Ziele.qmd
+    - 8-Anamnese.qmd
+    - 9-MentalModels.qmd
+    - 10-Methoden.qmd
+    - 11-MotorLearning.qmd
+    - 12-Programing.qmd
+    #- 17-summary.qmd
+    - Appendix1-SSA.qmd
+
+    #- references.qmd
+  page-navigation: true
+bibliography: Teaching and Lectures.bib
+
+code-fold: true
+
+format:
+  html:
+    theme: cosmo
+    tbl-colwidths: [75,25]
+    code: false
+    warning: false
+  pdf:
+    documentclass: scrreprt
+  epub:
+    cover-image: PCcover.png
+editor: visual
+
+website:
+  title: "Personal Coaching"
+  description: "Skriptum zur Lehrveranstaltung"
+  repo-url: https://github.com/Paeddasan/PersonalCoaching_Script
+
+  
