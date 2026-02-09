@@ -9,7 +9,7 @@ Hier findest du eine Liste der laufenden Anpassungen des Skripts nach Datum. Inh
 -   28.09.2024 Version 0.0.2
     -   Sprachliche Korrektur. Contribution Johanna Diewald und Julian Lukas
     -   @sec-mein-business: Der Begriff *HIIT* für wurde durch *Functional Fitness Training* (FFT) ersetzt, um Trainingsformen wie Crossfit© zu repräsentieren [@dominskiFunctionalFitnessTraining2022]. Contribution Gustavo Schaun [![ORCiD](https://orcid.org/sites/default/files/images/orcid_16x16.png){alt="ORCiD"}](#0)
-    -   @sec-mein-business: Die möglichen Geschäftmodelle wurden um den Absatz zur Weitervermietung und Abhalten von Seminaren etc. erweitert. Contribution Gustavo Schaun [![ORCiD](https://orcid.org/sites/default/files/images/orcid_16x16.png){alt="ORCiD"}](#0)
+    -   @sec-mein-business: Die möglichen Geschäftsmodelle wurden um den Absatz zur Weitervermietung und Abhalten von Seminaren etc. erweitert. Contribution Gustavo Schaun [![ORCiD](https://orcid.org/sites/default/files/images/orcid_16x16.png){alt="ORCiD"}](#0)
     -   @sec-mein-business: Kommentar zum "Beweis" von Trainingseffekten
     -   @sec-erstgespraech Erweiterung der Subkapitel Erstgespräch.
     -   @sec-risk-assessment Erweiterung um Vorgabe Medizinische Freigabe

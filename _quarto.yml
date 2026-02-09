@@ -11,7 +11,7 @@ book:
    - orcid: 0000-0002-1850-734X
    - email: peter.raidl@univie.ac.at
   license: CC0 1.0 Universal
-  date: "14 December, 2024"
+  date: "04 September, 2025"
   chapters:
     - index.qmd
     - 1-ChangesContribution.qmd

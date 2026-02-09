@@ -7,7 +7,7 @@ library(kableExtra)
 library(readxl)
 
 #current document version displayed
-ls_metadata = list(last_update = as.Date("2024-08-21"),
+ls_metadata = list(last_update = as.Date("2025-09-04"),
                    current_version = "0.0.4")
 save(ls_metadata,
         file = "metadata.rds")
