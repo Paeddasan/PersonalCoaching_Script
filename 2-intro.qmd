@@ -16,25 +16,25 @@ mykable <- function(df){
 
 ```
 
-Dieses Skript wurde für die Lehrveranstaltung (LV) *Personal Coaching* an der Universität Wien erstellt. Diese LV ist Teil des Curriculums *BSc Sportwisssenschaft* und läuft im Modul *Gesundheitsorientierte Sportarten*.
+Dieses Skript wurde für die Lehrveranstaltung (LV) *Personal Coaching* an der Universität Wien erstellt. Diese LV ist Teil des Curriculums *BSc Sportwissenschaft* und läuft im Modul *Gesundheitsorientierte Sportarten*.
 
-Das Manuskript wurde zur Lehrveranstaltung *Gesundheitsorientierte Bewegungsaktivitäten Personal Coaching* erstellt. Die Lehrveranstaltung ist Teil des [Curriculums des Bachelor Studiums Sportwissenschaft](https://ufind.univie.ac.at/de/vvz_sub.html?semester=2024S&path=308018) (Stand Curriculum 2017) an der *Universität Wien* und kann dort als Teil des Moduls BP3 gewählt werden. Die Studierenden, welche die Übung besuchen, haben dabei bereits Vorkenntnisse durch die Studieneingangsphase (STEOP) erworben. Außerdem ist der positive Abschluss folgender Module Voraussetzung für diese Lehrveranstaltung:
+Das Manuskript wurde für die Lehrveranstaltung „Gesundheitsorientierte Bewegungsaktivitäten Personal Coaching“ erstellt. Die Lehrveranstaltung ist Teil des [Curriculums des Bachelorstudiums Sportwissenschaft](https://ufind.univie.ac.at/de/vvz_sub.html?semester=2024S&path=308018) (Stand des Curriculums 2017) an der *Universität Wien* und kann dort als Modulteil BP3 gewählt werden. Die Studierenden, die die Übung besuchen, verfügen über Vorkenntnisse aus der Studieneingangs- und Orientierungsphase (STEOP). Außerdem ist der positive Abschluss folgender Module Voraussetzung für diese Lehrveranstaltung:
 
 -   BB1 Sportmedizin (Pflichtmodul) 6 ECTS
 -   BP1 Angewandte Trainingswissenschaft (Pflichtmodul) 8 ECTS
 -   BP2 Angewandte Sportdidaktik (Pflichtmodul) 4 ECTS
 
-Es wird also im Weiteren davon ausgegangen, dass die Lernenden die Inhalte dieser Lehrveranstaltungen bereits kennen. Das unterscheidet diesen Text auch von Fachbüchern, die sich mit Personal Training oder Personal Coaching beschäftigen sowie von kommerziellen Ausbildungen. Wer an einer umfassenden Einführung zum Thema Personal Coaching interessiert ist, sei auf Grundlagenliteratur der Organisationen NSCA [-@schoenfeldNSCAESSENTIALSPERSONAL2021], ACSM [-@hargensACSMResourcesPersonal2022], NASM [-@suttonNASMEssentialsPersonal2022] und EuropActive [-@riegerEuropeActiveEssentialsPersonal2016] verwiesen.
+Es wird also davon ausgegangen, dass die Lernenden die Inhalte dieser Lehrveranstaltungen bereits kennen. Das unterscheidet diesen Text auch von Fachbüchern, die sich mit Personal Training oder Personal Coaching beschäftigen, sowie von kommerziellen Ausbildungen. Wer an einer umfassenden Einführung zum Thema Personal Coaching interessiert ist, sei auf die Grundlagenliteratur der Organisationen NSCA [-@schoenfeldNSCAESSENTIALSPERSONAL2021], ACSM [-@hargensACSMResourcesPersonal2022], NASM [-@suttonNASMEssentialsPersonal2022] und EuropActive [-@riegerEuropeActiveEssentialsPersonal2016] verwiesen.
 
-Des Weiteren ist die *Prüfungsimmanente* *Lehrveranstaltung* als *Übung* ausgeschrieben (siehe aktuelles [Vorlesungsverzeichnis der Universität Wien](https://ufind.univie.ac.at/de/index.html). Laut dem Curriculum ([Stand 2020](https://senat.univie.ac.at/fileadmin/user_upload/s_senat/konsolidierte_Bachelorcurricula/BA_Sportwissenschaft.pdf)) bedeutet das:
+Des Weiteren ist die *Prüfungsimmanente* *Lehrveranstaltung* als *Übung* ausgeschrieben (siehe aktuelles [Vorlesungsverzeichnis der Universität Wien](https://ufind.univie.ac.at/de/index.html)). Laut dem Curriculum ([Stand 2020](https://senat.univie.ac.at/fileadmin/user_upload/s_senat/konsolidierte_Bachelorcurricula/BA_Sportwissenschaft.pdf)) bedeutet das:
 
 „*Im Rahmen von Übungen werden theoretische Inhalte von den Studierenden praktisch umgesetzt. Bewertet werden in diesen Lehrveranstaltungen Mitarbeit, Lehrauftritte sowie theoriegeleitete Auswertungen von Prozessen und angefertigte Protokolle.*"
 
-Ziel der Lehrveranstaltung soll dahingehend nicht nur die Weitergabe von Wissen, sondern vor allem die Befähigung von **Kompetenzen** sein. Auch wenn sich diese mit den angeführten Modulzielen nur teilweise vereinigen lässt, sehe ich den größeren Fokus der Übung in den Wissensdimensionen **Anwenden, Analysieren, Kreieren und Bewerten** nach der oft verwendeten Taxonomie nach [Bloom](https://www.celt.iastate.edu/instructional-strategies/effective-teaching-practices/revised-blooms-taxonomy/). Ich gehe davon aus, dass Personal Coaching nicht (nur) über Bücher gelernt werden kann, sondern vorrangig über praktische Erfahrung gepaart mit **Planung, Reflexion und Evaluation des eigenen Tuns**.
+Ziel der Lehrveranstaltung soll nicht nur die Weitergabe von Wissen sein, sondern vor allem die Befähigung zu **Kompetenzen**. Auch wenn sich diese mit den angeführten Modulzielen nur teilweise vereinbaren lassen, sehe ich den größeren Fokus der Übung auf die Wissensdimensionen **Anwenden, Analysieren, Kreieren und Bewerten** nach der verbreiteten Taxonomie nach [Bloom](#0). Ich gehe davon aus, dass Personal Coaching nicht (nur) aus Büchern gelernt werden kann, sondern vorrangig über praktische Erfahrung gepaart mit **Planung, Reflexion und Evaluation des eigenen Tuns**.
 
 # Inhalte {#sec-inhalte}
 
-Aus den genannten Gründen soll dieser Text also kein 101 Personal Training Kochrezepte sein. Das kann er auch nicht sein. Personal Coaching ist eine weite Begrifflichkeit (@sec-was-ist-personal-coaching) und verschiedene Trainer\*innen nutzen sehr unterschiedliche Ansätze und betreuen sehr unterschiedliche Klient\*innen. Die Auswahl der Inhalte stützt sich neben Überlegungen zum Curriculum auf meine persönliche Erfahrung als Personal Coach und Physiotherapeut (vorrangig zwischen 2012 und 2022 in Wien), auf Gespräche mit Kolleg\*innen und auf meinen Aus- und Fortbildungen. Ich versuche einen objektiven und evidenzbasierten Ansatz zu präsentieren. Dieser entsteht jedoch nicht im Vakuum. Lernende sind also zur Kritik und zu weiteren Überlegungen aufgefordert.
+Aus den genannten Gründen soll dieser Text keine *101 Personal Training Kochrezepte* enthalten. Personal Coaching ist eine breite Begrifflichkeit (@sec-was-ist-personal-coaching) und verschiedene Trainer\*innen nutzen sehr unterschiedliche Ansätze, um unterschiedlichste Klient\*innen zu betreuen. Die Auswahl der Inhalte stützt sich neben Überlegungen zum Curriculum auf meine persönliche Erfahrung als Personal Coach und Physiotherapeut (vorrangig zwischen 2012 und 2022 in Wien), auf Gespräche mit Kolleg\*innen sowie auf Aus- und Fortbildungen. Ich versuche einen objektiven und evidenzbasierten Ansatz zu präsentieren. Dieser entsteht jedoch nicht im Vakuum. Lernende sind also zur Kritik und zu weiteren Überlegungen aufgefordert.
 
 # Modulziele laut Curriculum 2017 {#sec-modulziele-curriculum-2017}
 
@@ -56,17 +56,17 @@ Aus den genannten Gründen soll dieser Text also kein 101 Personal Training Koch
 
 # Studienziele der LV {#sec-studienziele}
 
--   Erfahrung sammeln beim betreuen von Personen im Kontext Bewegung und Sport
+-   Erfahrung sammeln beim Betreuen von Personen im Kontext Bewegung und Sport
 -   Reflektieren und evaluieren des eigenen Handelns als Coach
 -   Daraus professionelle Entscheidungen und Anpassungen des Trainings ableiten
 -   Trainingspläne für Personal Coaching kreieren und die Trainingsprozesse nach aktueller Evidenz und angepasst an die individuellen Bedürfnisse der Klient\*innen leiten
--   Sammeln von Erfahrungen in Coaching Gesprächen zu trainings- und gesundheitsrelevanten Themen
+-   Sammeln von Erfahrungen in Coaching-Gesprächen zu trainings- und gesundheitsrelevanten Themen
 -   Kennen der Rolle von Personal Trainer\*innen im Kontext des österreichischen Gesundheitssystems und im Kontext der Gewerberegelungen
--   Klientenzentriert einen Coaching Prozess beschreiben und anwenden können
+-   Klientenzentriert einen Coaching-Prozess beschreiben und anwenden können
 
 # Arbeitsaufwand
 
-Insgesamt werden für die LV **2 ECTS** vergeben. Das entspricht einem durchschnittlichen Arbeitsaufwand von **50 Stunden** (50 x 60min) [Infos ECTS](https://www.bmbwf.gv.at/Themen/HS-Uni/Studium/Anerkennung/ECTS-System.html). Die Verteilung der ECTS ist in @tbl-ECTS dargestellt. Achtung, dies entspricht nicht der Gewichtung für die Notenvergabe, sondern dem zeitlichen Aufwand, der für jede studierende Person geplant ist. Da die LV so aufgebaut ist, dass Studierende regelmäßige kleine Aufgaben durchführen werden, ist es ratsam sich die benötigte Zeit im Vorhinein einzuplanen. Es sollte grob mit **1,5 Stunden zusätzlichen Zeitaufwand** **pro Woche** gerechnet werden.
+Insgesamt werden für die LV **2 ECTS** vergeben. Das entspricht einem durchschnittlichen Arbeitsaufwand von **50 Stunden** (50 x 60 min) [Infos ECTS](https://www.bmbwf.gv.at/Themen/HS-Uni/Studium/Anerkennung/ECTS-System.html). Die Verteilung der ECTS ist in @tbl-ECTS dargestellt. Achtung: Dies entspricht nicht der Gewichtung für die Notenvergabe, sondern dem zeitlichen Aufwand, der für jede studierende Person geplant ist. Da die LV so aufgebaut ist, dass Studierende regelmäßige kleine Aufgaben durchführen werden, ist es ratsam, sich die benötigte Zeit im Vorhinein einzuplanen. Es sollte grob mit **1,5 Stunden zusätzlichen Zeitaufwand** **pro Woche** gerechnet werden.
 
 ```{r, echo = F}
 #| label: tbl-ECTS
@@ -82,7 +82,7 @@ mykable(ECTS)
 
 # Beurteilung der LV {#sec-beurteilung}
 
-Die Gewichtung der Teilleistungen für die Benotung der LV wird in @tbl-Teilleistungen dargestellt und ist durch den zeitlichen Arbeitsaufwand und die Wichtigkeit für den Lernprozess bestimmt. Beispielsweise entspricht der zeitliche Aufwand für die Durchführung von Personal Coaching Einheiten nur `r round(ECTS$Prozent[ECTS$Teilleistung == "Personal Coaching"]*100, 0)`% des gesamten zeitlichen Aufwands, die Selbsterfahrung wird jedoch als besonders wichtig eingestuft und so entspricht dieser Teilbereich `r Punkte$Punkte[Punkte$Leistung == "Durchführen Personal Coaching"]`% der erreichbaren Gesamtpunkte. Dies ist ein Versuch einer fairen Punkteverteilung. **Anregungen zur Verbesserung durch die Studierenden werden zum Anfang des Semesters (bis 3. Einheit) oder im Anschluss an die Benotung gerne entgegengenommen.**
+Die Gewichtung der Teilleistungen für die Benotung der LV wird in @tbl-Teilleistungen dargestellt und basiert auf dem zeitlichen Arbeitsaufwand und der Bedeutung für den Lernprozess. Beispielsweise entspricht der zeitliche Aufwand für die Durchführung von Personal Coaching-Einheiten nur `r round(ECTS$Prozent[ECTS$Teilleistung == "Personal Coaching"]*100, 0)`% des gesamten zeitlichen Aufwands. Die Selbsterfahrung wird jedoch als besonders wichtig eingestuft und so entspricht dieser Teilbereich `r Punkte$Punkte[Punkte$Leistung == "Durchführen Personal Coaching"]`% der erreichbaren Gesamtpunkte. Dies ist ein Versuch einer fairen Punkteverteilung. **Anregungen zur Verbesserung durch die Studierenden werden bis zur 3. Einheit des Semesters oder im Anschluss an die Benotung gerne entgegengenommen.**
 
 ```{r, echo = FALSE}
 #| label: tbl-Teilleistungen
@@ -92,17 +92,17 @@ Die Gewichtung der Teilleistungen für die Benotung der LV wird in @tbl-Teilleis
 mykable(Punkte)
 ```
 
-Zusätzlich werden folgende Grundvoraussetzung für den positiven Abschluss der LV vorgeschlagen:
+Zusätzlich werden folgende Grundvoraussetzungen für den positiven Abschluss der LV vorgeschlagen:
 
--   Anwesenheit von 80% muss erfüllt werden.
+-   Die Anwesenheit von 75% muss erfüllt werden.
 -   Teilbereiche 1-5 müssen zumindest teilweise erfüllt (\> 0 Punkte) sein oder der Versuch einer Erfüllung muss dokumentiert sein
--   Können Anforderungen aus individuellen Gründen nicht erfüllt werden, so liegt es bei den Studierenden zum frühestmöglichen Zeitpunkt Rücksprache mit der LV-Leitung zu suchen. So kann eine gemeinsame Lösung gesucht werden.
+-   Können Anforderungen aus individuellen Gründen nicht erfüllt werden, so liegt es bei den Studierenden, zum frühestmöglichen Zeitpunkt Rücksprache mit der LV-Leitung zu suchen. So kann eine gemeinsame Lösung gesucht werden.
 -   Aufgrund des dichten Programms und um eine gute Lernatmosphäre zu gewährleisten, wird um Pünktlichkeit in den Einheiten gebeten.
--   Für Selbststudiumsaufgaben (SSA) und Reflexionsarbeit gibt es eine klare Null-Toleranz Politik gegenüber Plagiaten. Bitte haltet euch gegebenenfalls an Zitierregeln! Weitere Infos zur Vermeidung von Plagiaten [hier](https://ctl.univie.ac.at/fileadmin/user_upload/z_ctl_neu/Angebote_fuer_Studierende/Handouts__Leitfaeden_und_Ressourcen/Handouts_und_Leitfaeden/HO_Plagiate_vermeiden.pdf). Die Verwendung von AI ist in der LV ausdrücklich erlaubt. Anwendung kann AI finden in Überarbeitung und Korrektur von selbstgeschriebenen Texten oder zur Unterstützung im Coding. Die Verwendung von AI zur Erstellung von Texten oder zur Erstellung von Reflexionsarbeiten ist nicht erlaubt.
+-   Für Selbststudiumsaufgaben (SSA) und Reflexionsarbeit gibt es eine klare Nulltoleranzpolitik gegenüber Plagiaten. Bitte haltet euch gegebenenfalls an die Zitierregeln! Weitere Infos zur Vermeidung von Plagiaten [hier](#0). Die Verwendung von KI ist in der LV ausdrücklich erlaubt. Große Sprachmodelle (LLMs) können zur Überarbeitung und Korrektur selbstgeschriebener Texte oder zur Unterstützung beim Coding eingesetzt werden. Die Verwendung von KI zur Erstellung von Texten oder Reflexionsarbeiten ist nicht erlaubt.
 
-Der Notenschlüssel ist in @tbl-Noten einzusehen. Es werden keine Teilpunkte vergeben. Die Benotung ist immer auch eine subjektive Einschätzung der erbrachten Leistungen. Die LV-Leitung ist sich dieser Realität bewusst und versucht durch die genannte Aufschlüsselung einen möglichst transparenten und objektiven Eindruck zu erlangen. Die Benotung soll vor allem dem persönlichen Feedback für die Studierenden dienen. Dahingehend wäre eine Feedback Runde schon während dem Semester wünschenswert. Das aktive Einfordern eines Feedbacks durch die Studierenden ist jederzeit möglich und gewünscht.
+Der Notenschlüssel ist in @tbl-Noten einzusehen. Es werden keine Teilpunkte vergeben. Die Benotung ist immer auch eine subjektive Einschätzung der erbrachten Leistungen. Die LV-Leitung ist sich dieser Realität bewusst und versucht durch die genannte Aufschlüsselung einen möglichst transparenten und objektiven Eindruck zu erlangen. Die Benotung soll vor allem dem persönlichen Feedback an die Studierenden dienen. Dahingehend wäre eine Feedback-Runde schon während des Semesters wünschenswert. Das aktive Einfordern von Feedback durch die Studierenden ist jederzeit möglich und gewünscht.
 
-Zum Download wird die [Beurteilungsvorlage](Intro_files/Beurteilungsvorlage.xlsx) zur Verfügung gestellt. Teilnehmenden des Seminars wird dringend empfohlen die Vorlage zu beachten, um sich spezifisch auf die Anforderungen vorzubereiten.
+Zum Download wird die [Beurteilungsvorlage](Intro_files/Beurteilungsvorlage.xlsx) zur Verfügung gestellt. Den Studierenden wird dringend empfohlen, die Vorlage zu beachten, um sich spezifisch auf die Anforderungen vorzubereiten.
 
 ```{r, echo = FALSE}
 #| label: tbl-Noten
@@ -118,7 +118,7 @@ mykable(Noten)
 
 ## Selbststudiumsaufgaben SSA {#sec-selbststudiumsaufgaben}
 
-Ein Teil der Benotung erfolgt über die SSA. Diese werden in der LV präsentiert und durch die Studierenden innerhalb der **vorgegebenen Fristen erledigt**. Die Aufgaben sind so ausgelegt, dass sie in kurzer Zeit (ca. 20min) zu schaffen sind oder so, dass sie im Zuge anderer Teilleistungen erledigt werden können z.B. durch besondere Aufgaben während dem Coaching. Als erledigt werden Aufgaben angesehen, wenn die studierende Person eine nachvollziehbare Interaktion mit den Inhalten vorzeigen kann (Beantworten von Reflexionsfragen auf Moodle, ankreuzen von durchgeführten Aufgaben, etc.). Die gesamte LV ist so gestaltet, dass es notwendig ist regelmäßig während dem Semester kurze Lerninteraktionen durchzuführen. Es ist nicht sinnvoll möglich die SSAs alle am Ende des Semesters durchzuarbeiten da oft Interaktionen mit anderen Menschen notwendig sind.
+Ein Teil der Benotung erfolgt über die SSA. Diese werden in der LV präsentiert und von den Studierenden innerhalb der **vorgegebenen Fristen erledigt**. Die Aufgaben sind so ausgelegt, dass sie in kurzer Zeit (ca. 20 min) zu schaffen sind oder so, dass sie im Zuge anderer Teilleistungen erledigt werden können (z.B. durch besondere Aufgaben während des Coachings). Als erledigt werden Aufgaben angesehen, wenn die studierende Person eine nachvollziehbare Interaktion mit den Inhalten vorzeigen kann (Beantworten von Reflexionsfragen auf Moodle, Ankreuzen von durchgeführten Aufgaben etc.). Die gesamte LV ist so gestaltet, dass es notwendig ist, regelmäßig während des Semesters kurze Lerninteraktionen durchzuführen. Es ist nicht sinnvoll, die SSAs alle am Ende des Semesters durchzuarbeiten, da oft Interaktionen mit anderen Menschen notwendig sind.
 
 ::: {.content-hidden when-format="html"}
 ## Mentorship (nicht mehr aktiv ab Sommersemester 2024) {#sec-mentorship}
@@ -134,37 +134,39 @@ Als letzte Anmerkung soll gesagt sein, dass hier das Wort Mentorship nicht ganz 
 
 ## Durchführung Personal Coaching {#sec-durchführung-personal-coaching}
 
-Studierende sollen im Zuge der LV eigene Erfahrungen im Halten von Coaching sammeln. Dazu sollen zwei Klient\*innen gesucht werden (bis siehe Terminplan und Checklist). Um einen Lerneffekt zu gewährleisten, sollen die gecoachten Person **KEIN Familienmitglied, Freund\*in oder Sportstudent\*in sein**. Suche dir jemanden der/die deine Unterstützung wirklich gebrauchen und annehmen kann! Beachte außerdem, dass Personen mit Krankheiten oder Verletzungen nicht von sportwissenschaftlichen Berater\*innen betreut werden dürfen! Bei Unsicherheit bitte um eine ärztliche Freigabe / eine ärztliche Empfehlung für sportliches Training. Das ist im Allgemeinen kein Problem und wir besprechen diese rechtliche Frage gerne genauer.
+Studierende sollen im Zuge der LV eigene Erfahrungen beim Halten von Coaching sammeln. Dazu sollen zwei Klient\*innen gesucht werden (siehe Terminplan und Checklist). Um einen Lerneffekt zu gewährleisten, sollen die gecoachten Personen **KEIN Familienmitglied, Freund\*in oder Sportstudent\*in sein**. Suche dir jemanden, der/die deine Unterstützung wirklich gebrauchen und annehmen kann! Beachte außerdem, dass Personen mit Krankheiten oder Verletzungen nicht von sportwissenschaftlichen Berater\*innen betreut werden dürfen! Bei Unsicherheit bitte um eine ärztliche Freigabe / eine ärztliche Empfehlung für sportliches Training. Das ist im Allgemeinen kein Problem und wir besprechen diese rechtliche Frage gerne genauer.
 
-Das Ziel ist es bis zur Abgabe der Reflexionsarbeit zumindest **vier Coaching-Einheiten mit jeder Person** abgehalten zu haben[^2-intro-1]. Die Einheiten sollten in einem Zeitraum von 4 bis 12 Wochen abgehalten werden. Der gesamte Coaching Prozess muss dokumentiert und reflektiert werden. Bei regelmäßiger Durchführung der Dokumentationsarbeit und den damit verbundenen SSAs ist der Arbeitsaufwand für die Abgabe der Reflexionsarbeit sehr gering.
+Das Ziel ist es, bis zur Abgabe der Reflexionsarbeit zumindest **vier Coaching-Einheiten mit jeder Person** abgehalten zu haben [^2-intro-1]. Die Einheiten sollten in einem Zeitraum von 4 bis 12 Wochen stattfinden. Der gesamte Coaching-Prozess muss dokumentiert und reflektiert werden. Bei regelmäßiger Durchführung der Dokumentationsarbeit und den damit verbundenen SSAs ist der Arbeitsaufwand für die Abgabe der Reflexionsarbeit sehr gering.
 
 [^2-intro-1]: Bis einschließlich Wintersemester 2023/24 wurde als Vorgabe eine Person für acht Einheiten gecoached. Ab Somersemester 2024 wurde dies auf zwei Personen zu je vier Einheiten geändert. Diese Änderung wurde eingeführt um eine breitere Erfahrung zu schaffen. Außerdem war es in der Vergangenheit für manche Studierende schwierig Personen für acht Einheiten zu halten. Beide Lösungen haben natürlich ihre Vor- und Nachteile.
 
-**Achte bei der Abgabe unbedingt darauf, dass die Person auf allen Dokumenten anonymisiert werden muss!** (Massiver Punkteabzug bei Nichteinhalten!)
+**Achte bei der Abgabe unbedingt darauf, dass die Person auf allen Dokumenten anonymisiert werden muss!** (Massiver Punkteabzug bei Nichteinhaltung!)
 
-Weitere Teilziele sind in der Checklist vermerkt. Bis zur Einheit der **Präsentationen** (siehe Semesterplan) musst du in jedem Fall zumindest **sechs der acht Einheiten** abgehalten haben.
+Weitere Teilziele sind in der Checklist vermerkt. Bis zur Einheit der **Präsentationen** (siehe Semesterplan) musst du in jedem Fall mindestens **sechs der acht Einheiten** abgehalten haben.
 
-Außerdem geschieht das Coaching im Zuge deiner Ausbildung und es ist daher nicht möglich eine Entlohnung für diese Trainingseinheiten zu verlangen.
+Außerdem geschieht das Coaching im Zuge deiner Ausbildung. Es ist daher nicht möglich, eine Entlohnung für diese Trainingseinheiten zu verlangen.
 
-Eine Einheit im Coaching soll zwischen 45 und 75min dauern. Der Grund dafür ist, dass dein Zeitaufwand bei 45min zwar geringer ist, es aber schwieriger ist kürzere Einheiten zu planen und sinnvoll durchzuführen. Mach dir am Anfang mit deiner zu coachenden Person die Dauer der Einheiten aus und halte dich dann durchgehend an diese Zeitvorgabe.
+Eine Einheit im Coaching soll zwischen 45 und 75min dauern. Der Grund dafür ist, dass dein Zeitaufwand bei 45min zwar geringer ist, es aber schwieriger ist, kürzere Einheiten zu planen und sinnvoll durchzuführen. Mach dir am Anfang mit deiner zu coachenden Person die Dauer der Einheiten aus und halte dich dann durchgehend an diese Zeitvorgabe.
 
-Die Durchführung der Einheiten ist eine großartige Lernerfahrung und macht den Studierenden zumeist viel Freude. Nutze die Inhalte, die wir in der LV bearbeiten, um dein Coaching immer wieder zu überdenken und zu überarbeiten.
+Die Durchführung der Einheiten ist eine großartige Lernerfahrung und bereitet den Studierenden zumeist viel Freude. Nutze die Inhalte, die wir in der LV bearbeiten, um dein Coaching immer wieder zu überdenken und zu überarbeiten.
 
 Viel Spaß beim Coachen!
 
-## Supervisionsstunden {#sec-supervisionsstunden}
+## Hospitationen {#sec-supervisionsstunden}
 
-Personal Trainer\*innen arbeiten sehr unterschiedlich. Um verschiedene Zugänge kennen zu lernen ist geplant, dass alle Studierenden zumindest **einmal im Semester bei einem/einer erfahrenen Personal Coach\*in supervidieren**. Mehr Einheiten sind möglich und empfehlenswert! Bis zu drei Einheiten werden auch in Form von Punkten in der LV vergütet.
+Personal Trainer\*innen arbeiten sehr unterschiedlich. Um verschiedene Zugänge kennenzulernen ist geplant, dass alle Studierenden zumindest **einmal im Semester bei einem/einer erfahrenen Personal Coach\*in hospitieren** [^2-intro-2]. Mehr Einheiten sind möglich und empfehlenswert! Bis zu drei Einheiten werden auch in Form von Punkten in der LV vergütet.
 
-Mehrere Trainer\*innen haben sich bereit erklärt, dass Studierende sie besuchen können. Studierende sind jedoch auch angehalten selbst Kontakte zu knüpfen, falls sie Interesse an einem besonderen Feld haben. Wenn du eine\*n Trainer\*in kennst, bei welchen du supervidieren möchtest, wird das nur nach vorheriger Absprache mit der LV-Leitung angerechnet!
+[^2-intro-2]: In alten Versionen wurde der Begriff "Supervision" verwendet. Hospitation beschreibt jedoch besser die Aufgabenstellung der Studierenden. Falls der Begriff Supervision in Unterlagen der LV auftaucht ist er in diesem Zusammenhang durch Hospitation zu ersetzen.
+
+Mehrere Trainer\*innen haben sich bereit erklärt, dass Studierende sie besuchen können. Studierende sind jedoch auch angehalten, selbst Kontakte zu knüpfen, falls sie Interesse an einem besonderen Feld haben. Wenn du eine\*n Trainer\*in kennst, bei denen du hospitieren möchtest, wird das nur nach vorheriger Absprache mit der LV-Leitung angerechnet! Als Mindestanforderung müssen diese TrainerInnen über eine anerkannte Ausbildung (BSc Studium Sportwissenschaft, Bewegung und Sport, Staatliche TrainerIn; SportlehrerIn, Physiotherapie) besitzen.
 
 Die Vergabe der Supervisionsplätze wird in der ersten Einheit geplant.
 
-Beachte bitte, dass es ein Entgegenkommen der Trainer\*innen ist, dass Studierende supervidieren dürfen. **Besprich daher unbedingt mit den Trainer\*innen im Vorhinein wie du dich während den Einheiten verhalten sollst!**
+Bitte beachte, dass es ein Entgegenkommen der Trainer\*innen ist, dass Studierende hospitieren dürfen. **Besprich daher unbedingt mit den Trainer\*innen im Vorhinein, wie du dich während der Einheiten verhalten sollst!**
 
-Es wird empfohlen, dass du unbedingt mit den Trainer\*innen vor oder nach der Einheit eine Besprechung abhältst, um Fragen zu klären und ihre Handlungen auch verstehst. Wir sollten uns immer klar machen, dass eine einzelne Trainingseinheit nicht den gesamten Trainingsprozess repräsentiert. Methoden oder Verhalten, die dir vielleicht beim Zusehen komisch vorkommen haben möglicherweise eine Geschichte. Vielleicht denkst du, dass die Trainierenden die Übung nicht gut machen und du verstehst nicht warum die Trainerin sie nicht verbessert. Aber vielleicht sah die Übung vor zwei Einheiten noch viel schlimmer aus und die Trainerin ist glücklich, dass es bereits so gut geht und möchte ihren Kunden nicht mit noch mehr Anleitungen überfordern.
+Es wird empfohlen, dass du unbedingt mit den Trainer\*innen vor oder nach der Einheit eine Besprechung abhältst, um Fragen zu klären und ihre Handlungen auch zu verstehen. Wir sollten uns immer klar machen, dass eine einzelne Trainingseinheit nicht den gesamten Trainingsprozess repräsentieren kann. Methoden oder Verhalten, die dir beim Zusehen komisch vorkommen, haben möglicherweise eine Geschichte. Vielleicht denkst du, dass die trainierende Person die Übung technisch nicht gut ausführt und du verstehst nicht, warum die Trainerin sie nicht verbessert. Aber vielleicht hat die Klientin bereits einige Fortschritte gemacht. Nun möchte die Trainerin die Klientin nicht mit weiteren Anleitungen überfordern.
 
-Es sind 2h Supervision und 2h Reflexion vorgesehen. Schreibe eine kurze Reflexion zu deiner Supervision und sei bereit Themen, die dabei aufkommen auch in der Lehrveranstaltung zu diskutieren. **Halte dich dann aber auch an die Anonymität der Klient\*innen!**
+Es sind 2 Stunden Hospitation und 2 Stunden Reflexion vorgesehen. Schreibe eine kurze Reflexion zu deiner Hospitation und sei bereit, Themen, die dabei aufkommen, auch in der Lehrveranstaltung zu diskutieren. **Halte dich dann aber auch an die Anonymität der Klient\*innen!**
 
 [Checklist zum Seminar und Arbeit mit Klient\*innen](Intro_files/Checklisten.xlsx)
 
@@ -178,10 +180,10 @@ Am Ende sollen Studierende eine Reflexionsarbeit auf Moodle hochladen. Diese bes
     -   Parameter die, die Zielerreichung aufzeigen
     -   Geplante Inhalte und Methoden
     -   Durchgeführte Inhalte und Methoden
--   Reflexion des Coaching Prozesses
-    -   Kurze Reflexion in Journal Form zu jeder Einheit (kann aus 1-2 Sätzen bestehen)
-    -   Reflexion des gesamten Ablaufs (Hindernisse, Lösungen, Schwierigkeiten, Unterstützende Ressourcen, eigene Lernfelder, ...)
--   Reflexion der Supervisionsstunden
+-   Reflexion des Coaching-Prozesses
+    -   Kurze Reflexion in Journal-Form zu jeder Einheit (kann aus 1-2 Sätzen bestehen)
+    -   Reflexion des gesamten Ablaufs (Hindernisse, Lösungen, Schwierigkeiten, unterstützende Ressourcen, eigene Lernfelder, ...)
+-   Reflexion der Hospitation
     -   Beobachtungen in der Supervision (was wurde gemacht)
     -   Interpretationen und eigene Meinungen zum Beobachteten
     -   Besonderheiten und Fragen
@@ -194,13 +196,13 @@ Am Ende sollen Studierende eine Reflexionsarbeit auf Moodle hochladen. Diese bes
 
 # Hintergrund online Skript {#sec-hintergrund_script}
 
-Nach Überlegungen zur Präsentation von Lehrinhalten im Kontext von neuen Medien und offener Informationsgesellschaft bin ich zu dem Schluss gekommen, dass ich die theoretischen Inhalte dieser Lehrveranstaltung in ein offen zugängliches Skriptum setzen transferieren möchte. Ich habe es persönlich immer bevorzugt Fließtexte zu lesen, um mir Wissen anzueignen. Aufgenommenes Video oder Audiospuren wären natürlich einfacher zu konsumieren. Aber konsumieren und verdauen sind bekanntlich zwei unterschiedliche Dinge. Es scheint mir, dass aktuell die meisten Studierenden aufgezeichnete Vorträge bevorzugen würden. Aber, dass es auch Vorteile im Lernen und Behalten der Inhalte hat, wage ich zu bezweifeln.
+Nach Überlegungen zur Präsentation von Lehrinhalten im Kontext von neuen Medien und offener Informationsgesellschaft bin ich zu dem Schluss gekommen, dass ich die theoretischen Inhalte dieser Lehrveranstaltung in ein offen zugängliches Skriptum setzen transferieren möchte. Ich habe es persönlich immer bevorzugt, Fließtexte zu lesen, um mir Wissen anzueignen. Aufgenommene Videos oder Audiospuren wären natürlich einfacher zu konsumieren. Aber Konsumieren und Verdauen sind bekanntlich zwei unterschiedliche Vorgänge. Es scheint mir, dass die meisten Studierenden aktuell aufgezeichnete Vorträge bevorzugen würden. Aber, dass dies auch Vorteile im Lernen und Behalten der Inhalte hat, wage ich zu bezweifeln.
 
-Videoaufzeichnung von Vorträgen haben einen weiteren Nachteil: sie bleiben schwer nachzubearbeiten. Inhalte können sich jedoch ändern. Digital veröffentlichte Texte haben hier wiederum einen besonderen Stellenwert. Inspiriert haben mich dabei besonders Texte im Bereich Statistik, Computerwissenschaft und Programmieren, die häufig als online Version veröffentlich werden und dann durch die Autor\*innen weiterbearbeitet werden. Dies halte ich aktuelle für die beste Lösung. Die Leistungsfähigkeit und Zugänglichkeit von Text-to-Voice Programmen nimmt außerdem rapide zu. Lernende können sich damit ohnehin in Zukunft selbst entscheiden, wie sie die Inhalte schließlich konsumieren.
+Videoaufzeichnungen von Vorträgen haben einen weiteren Nachteil: Sie lassen sich nur schwer nachbearbeiten. Inhalte können sich jedoch ändern. Digital veröffentlichte Texte haben hier wiederum einen besonderen Stellenwert. Inspiriert haben mich dabei besonders Texte aus den Bereichen Statistik, Computerwissenschaft und Programmieren, die häufig als Online-Version veröffentlicht und durch die Autor\*innen laufend überarbeitet werden können. Dies halte ich aktuell für die beste Lösung. Die Leistungsfähigkeit und Zugänglichkeit von Text-to-Voice Programmen nimmt außerdem rapide zu. Lernende können sich damit ohnehin in Zukunft selbst entscheiden, wie sie die Inhalte schließlich konsumieren.
 
-Zu guter Letzt erhoffe ich mir, dass ich durch die Verschriftlichung der Inhalte selbst genauer über die Inhalte und die Wortwahl nachdenken kann, da mich schreiben zum langsameren Denken zwingt. Ich hoffe mit diesem meinem Versuch das Lernerlebnis aller Studierenden und Lernenden zu verbessern und sie auf Ihrem zukünftigen Weg möglichst gut vorzubereiten.
+Zu guter Letzt erhoffe ich mir, dass ich durch die Verschriftlichung der Inhalte selbst genauer über die Inhalte und Wortwahl nachdenken kann, da mich das Schreiben zum langsameren Denken zwingt. Ich hoffe mit diesem meinem Versuch das Lernerlebnis aller Studierenden und Lernenden zu verbessern und sie auf Ihrem zukünftigen Weg möglichst gut vorzubereiten.
 
-Dieser Text soll also in digitaler Form frei zugänglich sein. Das Manuskript kann so laufend kontrolliert und verbessert werden. Daher ist auch jede lesende Person dazu aufgefordert Feedback zum Text zu geben, sei es zu Rechtschreibung oder zu Inhalten.
+Dieser Text soll also in digitaler Form frei zugänglich sein. Das Manuskript kann so laufend kontrolliert und verbessert werden. Daher ist auch jede lesende Person dazu aufgefordert, Feedback zum Text zu geben, sei es zur Rechtschreibung oder zu den Inhalten.
 
 # Literaturvorschläge zur LV:
 
