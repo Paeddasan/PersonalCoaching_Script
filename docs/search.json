@@ -1,5 +1,45 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Personal Coaching",
+    "section": "",
+    "text": "1 Personal Coaching - Skript zur Lehrveranstaltung\nVersion 0.0.4\nBearbeitet am 2025-09-04\n\n\n\n\n\n\nFigure 1.1\n\n\n\nDieses digitale Skript wurde für die Lehrveranstaltung Personal Coaching an der Universität Wien erstellt. Die Inhalte werden laufend vom Autor überarbeitet. Zusätzliches Arbeitsmaterial und Übungen zu jedem Kapitel finden Studierende auf Moodle und sind damit aktuell nicht öffentlich zugänglich.\nAlle Inhalte bauen auf aktueller Forschung und Lehrmeinung auf. Die Auswahl der Literatur und die dargestellte Coaching Philosophie ist jedoch auch Produkt der Erfahrungen und Meinungen des Autors als Personal Coach und Physiotherapeut. Die Lehrveranstaltung soll dem interessierten Bachelor Studierenden der Sport- und Bewegungswissenschaft erste Werkzeuge und Denkanstöße für die Arbeit als Coach geben. Anspruch auf eine vollständige Darstellung aller Themen wird nicht gestellt.\nAnmerkungen und konstruktive Kritik werden gerne via E-Mail oder Github angenommen.\nHerzlichen Dank!\nPeter Raidl",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Personal Coaching - Skript zur Lehrveranstaltung</span>"
+    ]
+  },
+  {
+    "objectID": "1-ChangesContribution.html",
+    "href": "1-ChangesContribution.html",
+    "title": "2  Laufende Änderungen",
+    "section": "",
+    "text": "2.1 Änderungen\nHier findest du eine Liste der laufenden Anpassungen des Skripts nach Datum. Inhaltliche Anpassungen, die durch Leser*innen und Kolleg*innen vorgeschlagen werden, sind gesondert hervorgehoben. Herzlichen Dank an alle Beteiligten!",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Laufende Änderungen</span>"
+    ]
+  },
+  {
+    "objectID": "1-ChangesContribution.html#änderungen",
+    "href": "1-ChangesContribution.html#änderungen",
+    "title": "2  Laufende Änderungen",
+    "section": "",
+    "text": "25.02.2024 Version 0.0.1\n\nUpload Erstversion und freier Zugang\n\n28.09.2024 Version 0.0.2\n\nSprachliche Korrektur. Contribution Johanna Diewald und Julian Lukas\nChapter 6: Der Begriff HIIT für wurde durch Functional Fitness Training (FFT) ersetzt, um Trainingsformen wie Crossfit© zu repräsentieren (Dominski, Tibana, and Andrade 2022). Contribution Gustavo Schaun \nChapter 6: Die möglichen Geschäftsmodelle wurden um den Absatz zur Weitervermietung und Abhalten von Seminaren etc. erweitert. Contribution Gustavo Schaun \nChapter 6: Kommentar zum “Beweis” von Trainingseffekten\nSection 8.1 Erweiterung der Subkapitel Erstgespräch.\nSection 8.4 Erweiterung um Vorgabe Medizinische Freigabe\nKapitel “Trends im Fitness-Sektor” wurde vorübergehend ausgeblendet. Ich möchte erst die Inhalte (von 2021) überarbeiten\n\n29.09.2024 Version 0.0.3\n\nChapter 8 Punktevergabe überabeitet nach Feedback der Studierenden\nChapter 10 gekürzt\nSection 9.4 enthält eine Vorlage zum Download via Github\nMentorship description hidden\nSection 4.1 kurze Anmerkung zur Gesetzesnovelle, die im Juli 2024 beschlossen wurde\n\n12.08.2024 Version 0.0.4\n\n?sec-warm-up wurde hinzugefügt\n\n21.08.2024 Version 0.0.4\n\nSection 9.2 Spezifizierung der Trainingsdauer zwischen 4 und 12 Wochen\nSection 9.4 Download der Beurteilungskriterien, Notenschlüssel und Check-liste zur Verfügung gestellt\n\n04.09.2025\n\nDie Beurteilungskriterien wurden abermals leicht angepasst.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Laufende Änderungen</span>"
+    ]
+  },
+  {
+    "objectID": "1-ChangesContribution.html#literatur",
+    "href": "1-ChangesContribution.html#literatur",
+    "title": "2  Laufende Änderungen",
+    "section": "2.2 Literatur",
+    "text": "2.2 Literatur\n\n\n\n\nDominski, Fábio Hech, Ramires Alsamir Tibana, and Alexandro Andrade. 2022. “‘Functional Fitness Training,’ CrossFit, HIMT, or HIFT: What Is the Preferable Terminology?” Frontiers in Sports and Active Living 4.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Laufende Änderungen</span>"
+    ]
+  },
+  {
     "objectID": "2-intro.html",
     "href": "2-intro.html",
     "title": "3  Einleitung",
@@ -67,36 +107,6 @@
     "text": "Bis einschließlich Wintersemester 2023/24 wurde als Vorgabe eine Person für acht Einheiten gecoached. Ab Somersemester 2024 wurde dies auf zwei Personen zu je vier Einheiten geändert. Diese Änderung wurde eingeführt um eine breitere Erfahrung zu schaffen. Außerdem war es in der Vergangenheit für manche Studierende schwierig Personen für acht Einheiten zu halten. Beide Lösungen haben natürlich ihre Vor- und Nachteile.↩︎\nIn alten Versionen wurde der Begriff “Supervision” verwendet. Hospitation beschreibt jedoch besser die Aufgabenstellung der Studierenden. Falls der Begriff Supervision in Unterlagen der LV auftaucht ist er in diesem Zusammenhang durch Hospitation zu ersetzen.↩︎",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Einleitung</span>"
-    ]
-  },
-  {
-    "objectID": "1-ChangesContribution.html",
-    "href": "1-ChangesContribution.html",
-    "title": "2  Laufende Änderungen",
-    "section": "",
-    "text": "2.1 Änderungen\nHier findest du eine Liste der laufenden Anpassungen des Skripts nach Datum. Inhaltliche Anpassungen, die durch Leser*innen und Kolleg*innen vorgeschlagen werden, sind gesondert hervorgehoben. Herzlichen Dank an alle Beteiligten!",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Laufende Änderungen</span>"
-    ]
-  },
-  {
-    "objectID": "1-ChangesContribution.html#änderungen",
-    "href": "1-ChangesContribution.html#änderungen",
-    "title": "2  Laufende Änderungen",
-    "section": "",
-    "text": "25.02.2024 Version 0.0.1\n\nUpload Erstversion und freier Zugang\n\n28.09.2024 Version 0.0.2\n\nSprachliche Korrektur. Contribution Johanna Diewald und Julian Lukas\nChapter 6: Der Begriff HIIT für wurde durch Functional Fitness Training (FFT) ersetzt, um Trainingsformen wie Crossfit© zu repräsentieren (Dominski, Tibana, and Andrade 2022). Contribution Gustavo Schaun \nChapter 6: Die möglichen Geschäftsmodelle wurden um den Absatz zur Weitervermietung und Abhalten von Seminaren etc. erweitert. Contribution Gustavo Schaun \nChapter 6: Kommentar zum “Beweis” von Trainingseffekten\nSection 8.1 Erweiterung der Subkapitel Erstgespräch.\nSection 8.4 Erweiterung um Vorgabe Medizinische Freigabe\nKapitel “Trends im Fitness-Sektor” wurde vorübergehend ausgeblendet. Ich möchte erst die Inhalte (von 2021) überarbeiten\n\n29.09.2024 Version 0.0.3\n\nChapter 8 Punktevergabe überabeitet nach Feedback der Studierenden\nChapter 10 gekürzt\nSection 9.4 enthält eine Vorlage zum Download via Github\nMentorship description hidden\nSection 4.1 kurze Anmerkung zur Gesetzesnovelle, die im Juli 2024 beschlossen wurde\n\n12.08.2024 Version 0.0.4\n\n?sec-warm-up wurde hinzugefügt\n\n21.08.2024 Version 0.0.4\n\nSection 9.2 Spezifizierung der Trainingsdauer zwischen 4 und 12 Wochen\nSection 9.4 Download der Beurteilungskriterien, Notenschlüssel und Check-liste zur Verfügung gestellt\n\n04.09.2025\n\nDie Beurteilungskriterien wurden abermals leicht angepasst.",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Laufende Änderungen</span>"
-    ]
-  },
-  {
-    "objectID": "1-ChangesContribution.html#literatur",
-    "href": "1-ChangesContribution.html#literatur",
-    "title": "2  Laufende Änderungen",
-    "section": "2.2 Literatur",
-    "text": "2.2 Literatur\n\n\n\n\nDominski, Fábio Hech, Ramires Alsamir Tibana, and Alexandro Andrade. 2022. “‘Functional Fitness Training,’ CrossFit, HIMT, or HIFT: What Is the Preferable Terminology?” Frontiers in Sports and Active Living 4.",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Laufende Änderungen</span>"
     ]
   },
   {
