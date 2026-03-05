@@ -1,6 +1,6 @@
 project:
   type: book
-  output-dir: docs
+  #output-dir: docs
 
 book:
   title: "Personal Coaching"
@@ -44,7 +44,7 @@ format:
   pdf:
     documentclass: scrreprt
   epub:
-    cover-image: PCcover.png
+    cover-image: images/Cover.png
 editor: visual
 
 website:
