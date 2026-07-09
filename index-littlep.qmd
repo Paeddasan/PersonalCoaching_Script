@@ -26,9 +26,9 @@ Bearbeitet am `r ls_metadata$last_update`
 
 ![](images/cover.png "Cover"){#fig-cover width="400"}
 
-Dieses digitale Skript wurde für die Lehrveranstaltung **Personal Coaching** an der *Universität Wien* erstellt. Die Inhalte werden laufend vom Autor überarbeitet. Zusätzliches Arbeitsmaterial und Übungen zu jedem Kapitel finden Studierende auf [Moodle](https://moodle.univie.ac.at/my/) und sind damit aktuell nicht öffentlich zugänglich.
+Dieses digitale Skript wurde für die Lehrveranstaltung **Personal Coaching** an der *Universität Wien* erstellt. Die Inhalte werden laufend vom Autor überarbeitet. Zusätzliches Arbeitsmaterial und Übungen zu jedem Kapitel finden Studierende auf [Moodle](https://moodle.univie.ac.at/my/) und sind aktuell nicht öffentlich zugänglich.
 
-Alle Inhalte bauen auf aktueller Forschung und Lehrmeinung auf. Die Auswahl der Literatur und die dargestellte Coaching-Philosophie sind jedoch auch Produkte der Erfahrungen und Meinungen des Autors als *Personal Coach* und *Physiotherapeut*. Die Lehrveranstaltung soll den interessierten Bachelor-Studierenden der *Sport- und Bewegungswissenschaft* erste Werkzeuge und Denkanstöße für die Arbeit als Coach vermitteln. Anspruch auf eine vollständige Darstellung aller Themen wird nicht gestellt.
+Alle Inhalte bauen möglichst auf aktueller Forschung und Lehrmeinung auf. Die Auswahl der Literatur und die dargestellte Coaching-Philosophie sind jedoch auch Produkte der Erfahrungen und Meinungen des Autors als *Personal Coach* und *Physiotherapeut*. Die Lehrveranstaltung soll den interessierten Bachelor-Studierenden der *Sport- und Bewegungswissenschaft* erste Werkzeuge und Denkanstöße für die Arbeit als Coach liefern. Anspruch auf eine vollständige Darstellung aller Themen wird nicht gestellt.
 
 Anmerkungen und konstruktive Kritik werden gerne via [E-Mail](peter.raidl@univie.ac.at) oder [Github](https://github.com/Paeddasan/PersonalCoaching_Script/discussions) angenommen.
 

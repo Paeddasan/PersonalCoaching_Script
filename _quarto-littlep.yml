@@ -1,14 +1,9 @@
 project:
   type: book
-  output-dir: docs
+  #output-dir: docs
 
 book:
   title: "Personal Coaching"
-  sidebar:
-    tools:
-      - icon: house-fill
-        text: embodymate
-        href: "https://paeddasan.github.io/"
   subtitle: "Skriptum zur Lehrveranstaltung"
   author: 
    - name: "Peter Raidl"
@@ -49,7 +44,7 @@ format:
   pdf:
     documentclass: scrreprt
   epub:
-    cover-image: PCcover.png
+    cover-image: images/Cover.png
 editor: visual
 
 website:
