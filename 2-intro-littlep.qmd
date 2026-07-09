@@ -136,9 +136,9 @@ Als letzte Anmerkung soll gesagt sein, dass hier das Wort Mentorship nicht ganz 
 
 Studierende sollen im Zuge der LV eigene Erfahrungen beim Halten von Coaching sammeln. Dazu sollen zwei Klient\*innen gesucht werden (siehe Terminplan und Checklist). Um einen Lerneffekt zu gewährleisten, sollen die gecoachten Personen **KEIN Familienmitglied, Freund\*in oder Sportstudent\*in sein**. Suche dir jemanden, der/die deine Unterstützung wirklich gebrauchen und annehmen kann! Beachte außerdem, dass Personen mit Krankheiten oder Verletzungen nicht von sportwissenschaftlichen Berater\*innen betreut werden dürfen! Bei Unsicherheit bitte um eine ärztliche Freigabe / eine ärztliche Empfehlung für sportliches Training. Das ist im Allgemeinen kein Problem und wir besprechen diese rechtliche Frage gerne genauer.
 
-Das Ziel ist es, bis zur Abgabe der Reflexionsarbeit zumindest **vier Coaching-Einheiten mit jeder Person** abgehalten zu haben [^2-intro-1]. Die Einheiten sollten in einem Zeitraum von 4 bis 12 Wochen stattfinden. Der gesamte Coaching-Prozess muss dokumentiert und reflektiert werden. Bei regelmäßiger Durchführung der Dokumentationsarbeit und den damit verbundenen SSAs ist der Arbeitsaufwand für die Abgabe der Reflexionsarbeit sehr gering.
+Das Ziel ist es, bis zur Abgabe der Reflexionsarbeit zumindest **vier Coaching-Einheiten mit jeder Person** abgehalten zu haben [^2-intro-littlep-1]. Die Einheiten sollten in einem Zeitraum von 4 bis 12 Wochen stattfinden. Der gesamte Coaching-Prozess muss dokumentiert und reflektiert werden. Bei regelmäßiger Durchführung der Dokumentationsarbeit und den damit verbundenen SSAs ist der Arbeitsaufwand für die Abgabe der Reflexionsarbeit sehr gering.
 
-[^2-intro-1]: Bis einschließlich Wintersemester 2023/24 wurde als Vorgabe eine Person für acht Einheiten gecoached. Ab Somersemester 2024 wurde dies auf zwei Personen zu je vier Einheiten geändert. Diese Änderung wurde eingeführt um eine breitere Erfahrung zu schaffen. Außerdem war es in der Vergangenheit für manche Studierende schwierig Personen für acht Einheiten zu halten. Beide Lösungen haben natürlich ihre Vor- und Nachteile.
+[^2-intro-littlep-1]: Bis einschließlich Wintersemester 2023/24 wurde als Vorgabe eine Person für acht Einheiten gecoached. Ab Somersemester 2024 wurde dies auf zwei Personen zu je vier Einheiten geändert. Diese Änderung wurde eingeführt um eine breitere Erfahrung zu schaffen. Außerdem war es in der Vergangenheit für manche Studierende schwierig Personen für acht Einheiten zu halten. Beide Lösungen haben natürlich ihre Vor- und Nachteile.
 
 **Achte bei der Abgabe unbedingt darauf, dass die Person auf allen Dokumenten anonymisiert werden muss!** (Massiver Punkteabzug bei Nichteinhaltung!)
 
@@ -154,9 +154,9 @@ Viel Spaß beim Coachen!
 
 ## Hospitationen {#sec-supervisionsstunden}
 
-Personal Trainer\*innen arbeiten sehr unterschiedlich. Um verschiedene Zugänge kennenzulernen ist geplant, dass alle Studierenden zumindest **einmal im Semester bei einem/einer erfahrenen Personal Coach\*in hospitieren** [^2-intro-2]. Mehr Einheiten sind möglich und empfehlenswert! Bis zu drei Einheiten werden auch in Form von Punkten in der LV vergütet.
+Personal Trainer\*innen arbeiten sehr unterschiedlich. Um verschiedene Zugänge kennenzulernen ist geplant, dass alle Studierenden zumindest **einmal im Semester bei einem/einer erfahrenen Personal Coach\*in hospitieren** [^2-intro-littlep-2]. Mehr Einheiten sind möglich und empfehlenswert! Bis zu drei Einheiten werden auch in Form von Punkten in der LV vergütet.
 
-[^2-intro-2]: In alten Versionen wurde der Begriff "Supervision" verwendet. Hospitation beschreibt jedoch besser die Aufgabenstellung der Studierenden. Falls der Begriff Supervision in Unterlagen der LV auftaucht ist er in diesem Zusammenhang durch Hospitation zu ersetzen.
+[^2-intro-littlep-2]: In alten Versionen wurde der Begriff "Supervision" verwendet. Hospitation beschreibt jedoch besser die Aufgabenstellung der Studierenden. Falls der Begriff Supervision in Unterlagen der LV auftaucht ist er in diesem Zusammenhang durch Hospitation zu ersetzen.
 
 Mehrere Trainer\*innen haben sich bereit erklärt, dass Studierende sie besuchen können. Studierende sind jedoch auch angehalten, selbst Kontakte zu knüpfen, falls sie Interesse an einem besonderen Feld haben. Wenn du eine\*n Trainer\*in kennst, bei denen du hospitieren möchtest, wird das nur nach vorheriger Absprache mit der LV-Leitung angerechnet! Als Mindestanforderung müssen diese TrainerInnen über eine anerkannte Ausbildung (BSc Studium Sportwissenschaft, Bewegung und Sport, Staatliche TrainerIn; SportlehrerIn, Physiotherapie) besitzen.
 

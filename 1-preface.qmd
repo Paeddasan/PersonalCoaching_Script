@@ -6,7 +6,6 @@ Peter Raidl
 
 ![](images/cover.png "Cover"){#fig-cover width="400"}
 
-
 Version `r ls_metadata$current_version`
 
 Last Update `r ls_metadata$last_update`
