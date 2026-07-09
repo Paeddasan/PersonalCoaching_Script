@@ -1,0 +1,37 @@
+# Personal Coaching - Skript zur Lehrveranstaltung
+
+```{r, include = FALSE, message= FALSE}
+library(tidyr)
+library(dplyr)
+library(kableExtra)
+library(readxl)
+
+#current document version displayed
+ls_metadata = list(last_update = as.Date("2025-09-04"),
+                   current_version = "0.0.4")
+save(ls_metadata,
+        file = "metadata.rds")
+
+#set all tables to this form
+mykable <- function(df){
+  knitr::kable(df, digits = 2, align = "c", escape = F) %>%
+    kableExtra::kable_styling(font_size = 12)
+  }
+
+```
+
+*Version `r ls_metadata$current_version`*
+
+Bearbeitet am `r ls_metadata$last_update`
+
+![](images/cover.png "Cover"){#fig-cover width="400"}
+
+Dieses digitale Skript wurde für die Lehrveranstaltung **Personal Coaching** an der *Universität Wien* erstellt. Die Inhalte werden laufend vom Autor überarbeitet. Zusätzliches Arbeitsmaterial und Übungen zu jedem Kapitel finden Studierende auf [Moodle](https://moodle.univie.ac.at/my/) und sind damit aktuell nicht öffentlich zugänglich.
+
+Alle Inhalte bauen auf aktueller Forschung und Lehrmeinung auf. Die Auswahl der Literatur und die dargestellte Coaching-Philosophie sind jedoch auch Produkte der Erfahrungen und Meinungen des Autors als *Personal Coach* und *Physiotherapeut*. Die Lehrveranstaltung soll den interessierten Bachelor-Studierenden der *Sport- und Bewegungswissenschaft* erste Werkzeuge und Denkanstöße für die Arbeit als Coach vermitteln. Anspruch auf eine vollständige Darstellung aller Themen wird nicht gestellt.
+
+Anmerkungen und konstruktive Kritik werden gerne via [E-Mail](peter.raidl@univie.ac.at) oder [Github](https://github.com/Paeddasan/PersonalCoaching_Script/discussions) angenommen.
+
+Herzlichen Dank!
+
+Peter Raidl [![ORCiD](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-1850-734X)
